@@ -1,0 +1,1884 @@
+fileFormatVersion: 2
+guid: 3292cdbb4fb50ba4bb96bf8a0241529e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6337599105401879777
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 3331287547089191783
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 6782505167160097994
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -2033076259367644504
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: 3642097798447488110
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -8817033135347681117
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -8942063297900710396
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 1596791637848249551
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: -1362927094940565753
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -5529536308888946323
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: 2219179561372706555
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -292568287634900249
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 61292658940525887
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 389355325521080252
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: 2882812570641275253
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: 1204018027472021423
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 5219661659995814905
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -1853303859047708155
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 1339764737631554996
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -1599779899847939768
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -5579938660860374125
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -4251072378672404646
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: 4242812004874427698
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -7193515766365825386
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: 7784191835973471653
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 4548727440449093924
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 8657060628770598803
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: -4155140394440054881
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: 7128655584807215429
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: -8517616614084749783
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: 8765896910581342324
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: 2785064713543890384
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: 6375294951349791016
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: -5555955974419616544
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: -575592159720948512
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: 3906394762637641167
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: 3168870253968351561
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: -5736219402927227850
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: 5182219673801943969
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: -8215244550391175563
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: 8458590365596938972
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: 8978120434640265840
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: -2579027146973564897
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: 4069093588306806739
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: 276800440549556859
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_44
+  - first:
+      213: -4986983308629453773
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_45
+  - first:
+      213: -3654073920573494358
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_46
+  - first:
+      213: -4609044712690557414
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_47
+  - first:
+      213: 3167929444144592179
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_48
+  - first:
+      213: 4725411549037676081
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_49
+  - first:
+      213: 289193567885978738
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_50
+  - first:
+      213: -8755406355776333255
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_51
+  - first:
+      213: 1070038112289750994
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_52
+  - first:
+      213: -5597051570317864132
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_53
+  - first:
+      213: -7075993810897613807
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_54
+  - first:
+      213: 4178417596520633682
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_55
+  - first:
+      213: 6720677182353358302
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_56
+  - first:
+      213: -6687897459329820360
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_57
+  - first:
+      213: 1499382597698856826
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_58
+  - first:
+      213: -8284514128336941249
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_59
+  - first:
+      213: 8724640734007648344
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_60
+  - first:
+      213: 1730305426029531933
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_61
+  - first:
+      213: 8576677455709519837
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_62
+  - first:
+      213: -3365294545044378463
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_63
+  - first:
+      213: 4300584247266955455
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_64
+  - first:
+      213: 3552474814748958486
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_65
+  - first:
+      213: 525752924709005746
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_66
+  - first:
+      213: -5944351782561782381
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_67
+  - first:
+      213: -6449716464619223158
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_68
+  - first:
+      213: 8909412608055577739
+    second: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecff4eeecca3f750800000000000000
+      internalID: 6337599105401879777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7630fe8cf5c1b3e20800000000000000
+      internalID: 3331287547089191783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc34d7a38c402e50800000000000000
+      internalID: 6782505167160097994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a29c1fe9ef09c3e0800000000000000
+      internalID: -2033076259367644504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd1b9a6a45b8230800000000000000
+      internalID: 3642097798447488110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8b0caf31b93a580800000000000000
+      internalID: -8817033135347681117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406f191cec867e380800000000000000
+      internalID: -8942063297900710396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc45242d881f82610800000000000000
+      internalID: 1596791637848249551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fff4b3709e51de0800000000000000
+      internalID: -1362927094940565753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69bc0816042343b0800000000000000
+      internalID: -5529536308888946323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf66d68ad0c1cce10800000000000000
+      internalID: 2219179561372706555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea3af641b690fbf0800000000000000
+      internalID: -292568287634900249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d3d7b3951c9d000800000000000000
+      internalID: 61292658940525887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf271d0b94476500800000000000000
+      internalID: 389355325521080252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5799a1b52cec10820800000000000000
+      internalID: 2882812570641275253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7e2ae440885b010800000000000000
+      internalID: 1204018027472021423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbb6c3ff96ff6840800000000000000
+      internalID: 5219661659995814905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ac99c95fdb746e0800000000000000
+      internalID: -1853303859047708155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd8f153eecc79210800000000000000
+      internalID: 1339764737631554996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849e0c638a07cc9e0800000000000000
+      internalID: -1599779899847939768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393d2fa0a531092b0800000000000000
+      internalID: -5579938660860374125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57a1cad1382105c0800000000000000
+      internalID: -4251072378672404646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d9d4ff90f71ea30800000000000000
+      internalID: 4242812004874427698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696d79bf58f7b2c90800000000000000
+      internalID: -7193515766365825386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adc1be7b31070c60800000000000000
+      internalID: 7784191835973471653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4214a04c183502f30800000000000000
+      internalID: 4548727440449093924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f24e856ce042870800000000000000
+      internalID: 8657060628770598803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97268d73d9f556c0800000000000000
+      internalID: -4155140394440054881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541e9823c721ee260800000000000000
+      internalID: 7128655584807215429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926538851d85bc980800000000000000
+      internalID: -8517616614084749783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47025e4ebc8b6a970800000000000000
+      internalID: 8765896910581342324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5324fd99986a620800000000000000
+      internalID: 2785064713543890384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829ab810bf8997850800000000000000
+      internalID: 6375294951349791016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec620d5a7745e2b0800000000000000
+      internalID: -5555955974419616544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec3558faf51308f0800000000000000
+      internalID: -575592159720948512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc58673f65d463630800000000000000
+      internalID: 3906394762637641167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941e513e4b61afb20800000000000000
+      internalID: 3168870253968351561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cb1d648dad460b0800000000000000
+      internalID: -5736219402927227850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab61053651fae740800000000000000
+      internalID: 5182219673801943969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57668fe8b969dfd80800000000000000
+      internalID: -8215244550391175563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd272f93f13f26570800000000000000
+      internalID: 8458590365596938972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072a86997f0b89c70800000000000000
+      internalID: 8978120434640265840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f103d8e5974753cd0800000000000000
+      internalID: -2579027146973564897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c8d04f03587830800000000000000
+      internalID: 4069093588306806739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72c0acb88467d300800000000000000
+      internalID: 276800440549556859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334d65c5a1daacab0800000000000000
+      internalID: -4986983308629453773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaba23d112f1a4dc0800000000000000
+      internalID: -3654073920573494358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_47
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1edf2ae0426900c0800000000000000
+      internalID: -4609044712690557414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3353db78b0fb6fb20800000000000000
+      internalID: 3167929444144592179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_49
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1364bed74c8049140800000000000000
+      internalID: 4725411549037676081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_50
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ceb2d840c630400800000000000000
+      internalID: 289193567885978738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_51
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a11cbbe4c8e7680800000000000000
+      internalID: -8755406355776333255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_52
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dff82b6ef989de00800000000000000
+      internalID: 1070038112289750994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_53
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3359a150474352b0800000000000000
+      internalID: -5597051570317864132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cc5948e150dcd90800000000000000
+      internalID: -7075993810897613807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_55
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2559ad37aa8bcf930800000000000000
+      internalID: 4178417596520633682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddbe382a44a44d50800000000000000
+      internalID: 6720677182353358302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_57
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839986ad1b0df23a0800000000000000
+      internalID: -6687897459329820360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_58
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a772e3e4780eec410800000000000000
+      internalID: 1499382597698856826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_59
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f85c32b4e770d80800000000000000
+      internalID: -8284514128336941249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_60
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850ed6fb586241970800000000000000
+      internalID: 8724640734007648344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_61
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13db6f0e97430810800000000000000
+      internalID: 1730305426029531933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_62
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfbaac64ba760770800000000000000
+      internalID: 8576677455709519837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ace11ef0721c41d0800000000000000
+      internalID: -3365294545044378463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0dcf0669ebeab30800000000000000
+      internalID: 4300584247266955455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_65
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f12aea50dec4130800000000000000
+      internalID: 3552474814748958486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5d4f462f7940f854ea471d9f55061ffb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_0: 6337599105401879777
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_1: 3331287547089191783
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_10: 2219179561372706555
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_11: -292568287634900249
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_12: 61292658940525887
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_13: 389355325521080252
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_14: 2882812570641275253
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_15: 1204018027472021423
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_16: 5219661659995814905
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_17: -1853303859047708155
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_18: 1339764737631554996
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_19: -1599779899847939768
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_2: 6782505167160097994
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_20: -5579938660860374125
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_21: -4251072378672404646
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_22: 4242812004874427698
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_23: -7193515766365825386
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_24: 7784191835973471653
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_25: 4548727440449093924
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_26: 8657060628770598803
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_27: -4155140394440054881
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_28: 7128655584807215429
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_29: -8517616614084749783
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_3: -2033076259367644504
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_30: 8765896910581342324
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_31: 2785064713543890384
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_32: 6375294951349791016
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_33: -5555955974419616544
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_34: -575592159720948512
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_35: 3906394762637641167
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_36: 3168870253968351561
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_37: -5736219402927227850
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_38: 5182219673801943969
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_39: -8215244550391175563
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_4: 3642097798447488110
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_40: 8458590365596938972
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_41: 8978120434640265840
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_42: -2579027146973564897
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_43: 4069093588306806739
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_44: 276800440549556859
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_45: -4986983308629453773
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_46: -3654073920573494358
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_47: -4609044712690557414
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_48: 3167929444144592179
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_49: 4725411549037676081
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_5: -8817033135347681117
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_50: 289193567885978738
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_51: -8755406355776333255
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_52: 1070038112289750994
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_53: -5597051570317864132
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_54: -7075993810897613807
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_55: 4178417596520633682
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_56: 6720677182353358302
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_57: -6687897459329820360
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_58: 1499382597698856826
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_59: -8284514128336941249
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_6: -8942063297900710396
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_60: 8724640734007648344
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_61: 1730305426029531933
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_62: 8576677455709519837
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_63: -3365294545044378463
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_64: 4300584247266955455
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_65: 3552474814748958486
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_66: 525752924709005746
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_67: -5944351782561782381
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_68: -6449716464619223158
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_69: 8909412608055577739
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_7: 1596791637848249551
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_70: 2134456810
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_71: -2018770268
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_8: -1362927094940565753
+      blacktaunt-1705763735619-ezgif.com-gif-to-sprite-converter_9: -5529536308888946323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 346362
+  packageName: 2D Stickman Action Combat Platformer Animation Pack - 40+ Animations
+  packageVersion: 1.0.0
+  assetPath: Assets/MonishCreate/StickmanCombatPlatformerAnimations_1.0/SpriteSheets/Taunt_Invite.png
+  uploadId: 823626

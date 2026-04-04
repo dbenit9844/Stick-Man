@@ -1,0 +1,1324 @@
+fileFormatVersion: 2
+guid: 6385b7c3bf6a21249bf1359f11590803
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3150263570781935364
+    second: jubidle-1730989371477-ezgif.com-gif-maker_0
+  - first:
+      213: 1710875920740564002
+    second: jubidle-1730989371477-ezgif.com-gif-maker_1
+  - first:
+      213: -5894855952252443569
+    second: jubidle-1730989371477-ezgif.com-gif-maker_2
+  - first:
+      213: -6102149325002806989
+    second: jubidle-1730989371477-ezgif.com-gif-maker_3
+  - first:
+      213: -3799700127490344214
+    second: jubidle-1730989371477-ezgif.com-gif-maker_4
+  - first:
+      213: 4856417241024418409
+    second: jubidle-1730989371477-ezgif.com-gif-maker_5
+  - first:
+      213: -1123944436531493956
+    second: jubidle-1730989371477-ezgif.com-gif-maker_6
+  - first:
+      213: 3244680413422529418
+    second: jubidle-1730989371477-ezgif.com-gif-maker_7
+  - first:
+      213: -2471795282262356266
+    second: jubidle-1730989371477-ezgif.com-gif-maker_8
+  - first:
+      213: 8286649449979916058
+    second: jubidle-1730989371477-ezgif.com-gif-maker_9
+  - first:
+      213: -5366102193373341185
+    second: jubidle-1730989371477-ezgif.com-gif-maker_10
+  - first:
+      213: -2755802216180143022
+    second: jubidle-1730989371477-ezgif.com-gif-maker_11
+  - first:
+      213: 210753501655004578
+    second: jubidle-1730989371477-ezgif.com-gif-maker_12
+  - first:
+      213: -184211731311334958
+    second: jubidle-1730989371477-ezgif.com-gif-maker_13
+  - first:
+      213: -531089466227014238
+    second: jubidle-1730989371477-ezgif.com-gif-maker_14
+  - first:
+      213: -3714122571634948428
+    second: jubidle-1730989371477-ezgif.com-gif-maker_15
+  - first:
+      213: -5434845739457728727
+    second: jubidle-1730989371477-ezgif.com-gif-maker_16
+  - first:
+      213: 4864747769267007153
+    second: jubidle-1730989371477-ezgif.com-gif-maker_17
+  - first:
+      213: 5931123823728088481
+    second: jubidle-1730989371477-ezgif.com-gif-maker_18
+  - first:
+      213: 1505155561877155798
+    second: jubidle-1730989371477-ezgif.com-gif-maker_19
+  - first:
+      213: -5131117535313322189
+    second: jubidle-1730989371477-ezgif.com-gif-maker_20
+  - first:
+      213: -3360739355670580475
+    second: jubidle-1730989371477-ezgif.com-gif-maker_21
+  - first:
+      213: -1283748666148217653
+    second: jubidle-1730989371477-ezgif.com-gif-maker_22
+  - first:
+      213: -6660901316287925179
+    second: jubidle-1730989371477-ezgif.com-gif-maker_23
+  - first:
+      213: 6495167816006133996
+    second: jubidle-1730989371477-ezgif.com-gif-maker_24
+  - first:
+      213: 1256877420287984247
+    second: jubidle-1730989371477-ezgif.com-gif-maker_25
+  - first:
+      213: 2546671953508030838
+    second: jubidle-1730989371477-ezgif.com-gif-maker_26
+  - first:
+      213: -141894353853323369
+    second: jubidle-1730989371477-ezgif.com-gif-maker_27
+  - first:
+      213: -1262009681881041015
+    second: jubidle-1730989371477-ezgif.com-gif-maker_28
+  - first:
+      213: 3482608338074703848
+    second: jubidle-1730989371477-ezgif.com-gif-maker_29
+  - first:
+      213: -6744413028001123358
+    second: jubidle-1730989371477-ezgif.com-gif-maker_30
+  - first:
+      213: -3585905429998233515
+    second: jubidle-1730989371477-ezgif.com-gif-maker_31
+  - first:
+      213: -748290863263025726
+    second: jubidle-1730989371477-ezgif.com-gif-maker_32
+  - first:
+      213: -3845336412017320623
+    second: jubidle-1730989371477-ezgif.com-gif-maker_33
+  - first:
+      213: 4524006053502322554
+    second: jubidle-1730989371477-ezgif.com-gif-maker_34
+  - first:
+      213: 79673182076707511
+    second: jubidle-1730989371477-ezgif.com-gif-maker_35
+  - first:
+      213: 2991236653797443443
+    second: jubidle-1730989371477-ezgif.com-gif-maker_36
+  - first:
+      213: -3313812536532103200
+    second: jubidle-1730989371477-ezgif.com-gif-maker_37
+  - first:
+      213: 2268255354217749236
+    second: jubidle-1730989371477-ezgif.com-gif-maker_38
+  - first:
+      213: -8412802846712710964
+    second: jubidle-1730989371477-ezgif.com-gif-maker_39
+  - first:
+      213: 2206870838733245145
+    second: jubidle-1730989371477-ezgif.com-gif-maker_40
+  - first:
+      213: 1775609254325683167
+    second: jubidle-1730989371477-ezgif.com-gif-maker_41
+  - first:
+      213: 4530076643411977990
+    second: jubidle-1730989371477-ezgif.com-gif-maker_42
+  - first:
+      213: -2154165993910644152
+    second: jubidle-1730989371477-ezgif.com-gif-maker_43
+  - first:
+      213: -8552422909353131893
+    second: jubidle-1730989371477-ezgif.com-gif-maker_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf860b229f30844d0800000000000000
+      internalID: -3150263570781935364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cb286d5904eb710800000000000000
+      internalID: 1710875920740564002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_2
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4465e36eb3413ea0800000000000000
+      internalID: -5894855952252443569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_3
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33961dcf48fc05ba0800000000000000
+      internalID: -6102149325002806989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_4
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea7eef9dd0c44bc0800000000000000
+      internalID: -3799700127490344214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_5
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962d75410c5756340800000000000000
+      internalID: 4856417241024418409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_6
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb383496d72f660f0800000000000000
+      internalID: -1123944436531493956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ba7bb15ab670d20800000000000000
+      internalID: 3244680413422529418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de0443794b62bdd0800000000000000
+      internalID: -2471795282262356266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f2d3c25c7100370800000000000000
+      internalID: 8286649449979916058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_10
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff999876c76c785b0800000000000000
+      internalID: -5366102193373341185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_11
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c29593c7c61c9d0800000000000000
+      internalID: -2755802216180143022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5f051713fbce200800000000000000
+      internalID: 210753501655004578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_13
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d96ab7086c817df0800000000000000
+      internalID: -184211731311334958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5469db1f031a8f0800000000000000
+      internalID: -531089466227014238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b640790339c47cc0800000000000000
+      internalID: -3714122571634948428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fa392589c8394b0800000000000000
+      internalID: -5434845739457728727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_17
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bea805525e038340800000000000000
+      internalID: 4864747769267007153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_18
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a55b2871b59f4250800000000000000
+      internalID: 5931123823728088481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_19
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df2465420363e410800000000000000
+      internalID: 1505155561877155798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_20
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f1fd699cb9ac8b0800000000000000
+      internalID: -5131117535313322189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503749aac514c51d0800000000000000
+      internalID: -3360739355670580475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc9a55c3653f2ee0800000000000000
+      internalID: -1283748666148217653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_23
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544f9b63b89bf83a0800000000000000
+      internalID: -6660901316287925179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_24
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8689d37b8732a50800000000000000
+      internalID: 6495167816006133996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_25
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7728972ca53517110800000000000000
+      internalID: 1256877420287984247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_26
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679db4c16a8975320800000000000000
+      internalID: 2546671953508030838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_27
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79760f246d3e70ef0800000000000000
+      internalID: -141894353853323369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987706871e07c7ee0800000000000000
+      internalID: -1262009681881041015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e791c2f4d5b45030800000000000000
+      internalID: 3482608338074703848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_30
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3f97f95180762a0800000000000000
+      internalID: -6744413028001123358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_31
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5589fc6a20e4c3ec0800000000000000
+      internalID: -3585905429998233515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_32
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5798aac698d95f0800000000000000
+      internalID: -748290863263025726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_33
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d15df18ee92aac0800000000000000
+      internalID: -3845336412017320623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_34
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7709b4598f78ce30800000000000000
+      internalID: 4524006053502322554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2aec3465e0b1100800000000000000
+      internalID: 79673182076707511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37789bc63e1038920800000000000000
+      internalID: 2991236653797443443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_37
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef84cb2e09f202d0800000000000000
+      internalID: -3313812536532103200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_38
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fad6081a367a7f10800000000000000
+      internalID: 2268255354217749236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_39
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc83b444268bf3b80800000000000000
+      internalID: -8412802846712710964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_40
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da0dd7d55160ae10800000000000000
+      internalID: 2206870838733245145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_41
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd38aff853b34a810800000000000000
+      internalID: 1775609254325683167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6076ddfa4b01ede30800000000000000
+      internalID: 4530076643411977990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842dab9117dda12e0800000000000000
+      internalID: -2154165993910644152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubidle-1730989371477-ezgif.com-gif-maker_44
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8008173da0bf4980800000000000000
+      internalID: -8552422909353131893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 41c825fdfafa5e7479459de6ddfcc8ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jubidle-1730989371477-ezgif.com-gif-maker_0: -3150263570781935364
+      jubidle-1730989371477-ezgif.com-gif-maker_1: 1710875920740564002
+      jubidle-1730989371477-ezgif.com-gif-maker_10: -5366102193373341185
+      jubidle-1730989371477-ezgif.com-gif-maker_11: -2755802216180143022
+      jubidle-1730989371477-ezgif.com-gif-maker_12: 210753501655004578
+      jubidle-1730989371477-ezgif.com-gif-maker_13: -184211731311334958
+      jubidle-1730989371477-ezgif.com-gif-maker_14: -531089466227014238
+      jubidle-1730989371477-ezgif.com-gif-maker_15: -3714122571634948428
+      jubidle-1730989371477-ezgif.com-gif-maker_16: -5434845739457728727
+      jubidle-1730989371477-ezgif.com-gif-maker_17: 4864747769267007153
+      jubidle-1730989371477-ezgif.com-gif-maker_18: 5931123823728088481
+      jubidle-1730989371477-ezgif.com-gif-maker_19: 1505155561877155798
+      jubidle-1730989371477-ezgif.com-gif-maker_2: -5894855952252443569
+      jubidle-1730989371477-ezgif.com-gif-maker_20: -5131117535313322189
+      jubidle-1730989371477-ezgif.com-gif-maker_21: -3360739355670580475
+      jubidle-1730989371477-ezgif.com-gif-maker_22: -1283748666148217653
+      jubidle-1730989371477-ezgif.com-gif-maker_23: -6660901316287925179
+      jubidle-1730989371477-ezgif.com-gif-maker_24: 6495167816006133996
+      jubidle-1730989371477-ezgif.com-gif-maker_25: 1256877420287984247
+      jubidle-1730989371477-ezgif.com-gif-maker_26: 2546671953508030838
+      jubidle-1730989371477-ezgif.com-gif-maker_27: -141894353853323369
+      jubidle-1730989371477-ezgif.com-gif-maker_28: -1262009681881041015
+      jubidle-1730989371477-ezgif.com-gif-maker_29: 3482608338074703848
+      jubidle-1730989371477-ezgif.com-gif-maker_3: -6102149325002806989
+      jubidle-1730989371477-ezgif.com-gif-maker_30: -6744413028001123358
+      jubidle-1730989371477-ezgif.com-gif-maker_31: -3585905429998233515
+      jubidle-1730989371477-ezgif.com-gif-maker_32: -748290863263025726
+      jubidle-1730989371477-ezgif.com-gif-maker_33: -3845336412017320623
+      jubidle-1730989371477-ezgif.com-gif-maker_34: 4524006053502322554
+      jubidle-1730989371477-ezgif.com-gif-maker_35: 79673182076707511
+      jubidle-1730989371477-ezgif.com-gif-maker_36: 2991236653797443443
+      jubidle-1730989371477-ezgif.com-gif-maker_37: -3313812536532103200
+      jubidle-1730989371477-ezgif.com-gif-maker_38: 2268255354217749236
+      jubidle-1730989371477-ezgif.com-gif-maker_39: -8412802846712710964
+      jubidle-1730989371477-ezgif.com-gif-maker_4: -3799700127490344214
+      jubidle-1730989371477-ezgif.com-gif-maker_40: 2206870838733245145
+      jubidle-1730989371477-ezgif.com-gif-maker_41: 1775609254325683167
+      jubidle-1730989371477-ezgif.com-gif-maker_42: 4530076643411977990
+      jubidle-1730989371477-ezgif.com-gif-maker_43: -2154165993910644152
+      jubidle-1730989371477-ezgif.com-gif-maker_44: -8552422909353131893
+      jubidle-1730989371477-ezgif.com-gif-maker_45: -552245352
+      jubidle-1730989371477-ezgif.com-gif-maker_46: 1725313090
+      jubidle-1730989371477-ezgif.com-gif-maker_47: 1026688672
+      jubidle-1730989371477-ezgif.com-gif-maker_48: -1539645469
+      jubidle-1730989371477-ezgif.com-gif-maker_5: 4856417241024418409
+      jubidle-1730989371477-ezgif.com-gif-maker_6: -1123944436531493956
+      jubidle-1730989371477-ezgif.com-gif-maker_7: 3244680413422529418
+      jubidle-1730989371477-ezgif.com-gif-maker_8: -2471795282262356266
+      jubidle-1730989371477-ezgif.com-gif-maker_9: 8286649449979916058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 346362
+  packageName: 2D Stickman Action Combat Platformer Animation Pack - 40+ Animations
+  packageVersion: 1.0.0
+  assetPath: Assets/MonishCreate/StickmanCombatPlatformerAnimations_1.0/SpriteSheets/IdleCooler.png
+  uploadId: 823626

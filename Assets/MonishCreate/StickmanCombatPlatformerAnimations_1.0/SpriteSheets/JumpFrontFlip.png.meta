@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: e6170c6a795fc014f834285dcec43e0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7412458668254165480
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -255211316308457442
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -2876202757712938345
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -5889522099326954193
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: 3393096728124196271
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -8142723216473831816
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -2324565024901543090
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 8014257775232816957
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: -6399069784195034894
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -2873137147494209974
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -7142272499398927983
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: 3869183821032323109
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 7641545731956232814
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 461520294688144005
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: 8110638833240078698
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: 2344503072328631190
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 4773045375789823332
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -7313597360801399891
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: -2366328903416197833
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -9010078961745699099
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -9015240696608922892
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: 5526135549028872004
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: 2952513896443631416
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -2291857865077880108
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: 5015563731153840768
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: -7762418711339400560
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 7033234893981209961
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 1100831960792265567
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: 2465813848660225721
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 3135693153991609069
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: 8418333880027641821
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: 2250878255004016436
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: -7959421646127520112
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: -7458418515418571630
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: -9092984494664142597
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: -2223289793991793142
+    second: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81602763d18a12990800000000000000
+      internalID: -7412458668254165480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1846c4f8ae457cf0800000000000000
+      internalID: -255211316308457442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a7584a4dca518d0800000000000000
+      internalID: -2876202757712938345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25ddcccad6344ea0800000000000000
+      internalID: -5889522099326954193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa502603f73b61f20800000000000000
+      internalID: 3393096728124196271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87640c9606c3ffe80800000000000000
+      internalID: -8142723216473831816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b42790d6c7dbfd0800000000000000
+      internalID: -2324565024901543090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d371a273cfc583f60800000000000000
+      internalID: 8014257775232816957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f09e1c5fefe137a0800000000000000
+      internalID: -6399069784195034894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46e0a4acf09028d0800000000000000
+      internalID: -2873137147494209974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1991940d00d81ec90800000000000000
+      internalID: -7142272499398927983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528f1577f2a12b530800000000000000
+      internalID: 3869183821032323109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6257284b593c0a60800000000000000
+      internalID: 7641545731956232814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a35854346a76600800000000000000
+      internalID: 461520294688144005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6973ccfb07ce8070800000000000000
+      internalID: 8110638833240078698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693c5f06f19598020800000000000000
+      internalID: 2344503072328631190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465f5c80b734d3240800000000000000
+      internalID: 4773045375789823332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabb23f03f1e08a90800000000000000
+      internalID: -7313597360801399891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d4322566c192fd0800000000000000
+      internalID: -2366328903416197833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee5de6fbe4c5f280800000000000000
+      internalID: -9010078961745699099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2eaf9e95e63e280800000000000000
+      internalID: -9015240696608922892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f268cc007c0bc40800000000000000
+      internalID: 5526135549028872004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8375de7eebf69f820800000000000000
+      internalID: 2952513896443631416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da095c1a6fa130e0800000000000000
+      internalID: -2291857865077880108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ae1cfc3acda9540800000000000000
+      internalID: 5015563731153840768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09205c02f49564490800000000000000
+      internalID: -7762418711339400560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965d1a55fd11b9160800000000000000
+      internalID: 7033234893981209961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f537b6cf5d0f64f00800000000000000
+      internalID: 1100831960792265567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bea1a381a4583220800000000000000
+      internalID: 2465813848660225721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea4b485f48348b20800000000000000
+      internalID: 3135693153991609069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7fea7cf0ee3d470800000000000000
+      internalID: 8418333880027641821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f5a26e8d9bc3f10800000000000000
+      internalID: 2250878255004016436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096a3050f247a8190800000000000000
+      internalID: -7959421646127520112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c974a60ef5e7890800000000000000
+      internalID: -7458418515418571630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0b86f57ca3fc180800000000000000
+      internalID: -9092984494664142597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roll2-1713708546404-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a062e5c36b94521e0800000000000000
+      internalID: -2223289793991793142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 802fe436bf36e2c4f8c464ca156d7884
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_0: -7412458668254165480
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_1: -255211316308457442
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_10: -7142272499398927983
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_11: 3869183821032323109
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_12: 7641545731956232814
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_13: 461520294688144005
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_14: 8110638833240078698
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_15: 2344503072328631190
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_16: 4773045375789823332
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_17: -7313597360801399891
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_18: -2366328903416197833
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_19: -9010078961745699099
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_2: -2876202757712938345
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_20: -9015240696608922892
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_21: 5526135549028872004
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_22: 2952513896443631416
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_23: -2291857865077880108
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_24: 5015563731153840768
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_25: -7762418711339400560
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_26: 7033234893981209961
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_27: 1100831960792265567
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_28: 2465813848660225721
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_29: 3135693153991609069
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_3: -5889522099326954193
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_30: 8418333880027641821
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_31: 2250878255004016436
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_32: -7959421646127520112
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_33: -7458418515418571630
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_34: -9092984494664142597
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_35: -2223289793991793142
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_4: 3393096728124196271
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_5: -8142723216473831816
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_6: -2324565024901543090
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_7: 8014257775232816957
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_8: -6399069784195034894
+      roll2-1713708546404-ezgif.com-gif-to-sprite-converter_9: -2873137147494209974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 346362
+  packageName: 2D Stickman Action Combat Platformer Animation Pack - 40+ Animations
+  packageVersion: 1.0.0
+  assetPath: Assets/MonishCreate/StickmanCombatPlatformerAnimations_1.0/SpriteSheets/JumpFrontFlip.png
+  uploadId: 823626

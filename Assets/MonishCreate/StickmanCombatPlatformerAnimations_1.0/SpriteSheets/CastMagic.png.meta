@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 8005d5279b899a9458cd2b3fe648b099
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8288609924752764588
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -7822619197223450207
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -3405379207505778278
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -3432403097055060205
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -721013601297179354
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 1580924949741427402
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 4557911511818454718
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 5698921336016231270
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 6997530326848144982
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 4441148437863111995
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: 2623467168178048878
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: 2940555019044183858
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: -9075554772092801970
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 1358517098831778662
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: 1885039727356778729
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: 8604615815920822990
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 7329853729291060600
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -6444426904813768223
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: -6964941608493857871
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: 6584148759320861121
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: 6289285717529539649
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -543967573350381320
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: -3211503463020225574
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: 8224672329820781274
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: -7585129668195474217
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 5365695365082929834
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 7241023236664971789
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 7798324493976621526
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: 2518434612797380066
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: -6117871137574081565
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: -4735194984207717805
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: 3888477926625966748
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: -6537766283943844696
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: 1742604153434488893
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: -1241697209666093128
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: -6161795052483536652
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: 2497106390789866465
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: 3503933538847511658
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: -1877904004235157069
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: -488944048375565112
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: -1638040648024414029
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: 6574863779758595256
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: -5513804877979643189
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: 3083768346886805931
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: -1400316398521839107
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_44
+  - first:
+      213: 8220952206253114076
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_45
+  - first:
+      213: -7480192264077540410
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_46
+  - first:
+      213: -6511918376004592758
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_47
+  - first:
+      213: -4607272970224120941
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_48
+  - first:
+      213: 4074205500448841102
+    second: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45195593031f8fc80800000000000000
+      internalID: -8288609924752764588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a948504949707390800000000000000
+      internalID: -7822619197223450207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99ed1b37a9adb0d0800000000000000
+      internalID: -3405379207505778278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f1512a197ad50d0800000000000000
+      internalID: -3432403097055060205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dd47023f17ef5f0800000000000000
+      internalID: -721013601297179354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acad3ed9dd290f510800000000000000
+      internalID: 1580924949741427402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb64a930f54f04f30800000000000000
+      internalID: 4557911511818454718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b542cc2c2a61f40800000000000000
+      internalID: 5698921336016231270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6568eccf1c83c1160800000000000000
+      internalID: 6997530326848144982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d9c9959f022ad30800000000000000
+      internalID: 4441148437863111995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f072f5d7d686420800000000000000
+      internalID: 2623467168178048878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fde98c533fec820800000000000000
+      internalID: 2940555019044183858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4caec5e4072d0280800000000000000
+      internalID: -9075554772092801970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66399298a1c6ad210800000000000000
+      internalID: 1358517098831778662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8999805a1092a10800000000000000
+      internalID: 1885039727356778729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca2ba0de7cb96770800000000000000
+      internalID: 8604615815920822990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87547fda12fd8b560800000000000000
+      internalID: 7329853729291060600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1fa95cfdbc096a0800000000000000
+      internalID: -6444426904813768223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3c268428e875f90800000000000000
+      internalID: -6964941608493857871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c916ab89689f5b50800000000000000
+      internalID: 6584148759320861121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144394cb908084750800000000000000
+      internalID: 6289285717529539649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f88e15cf507378f0800000000000000
+      internalID: -543967573350381320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb1ebb9d927e63d0800000000000000
+      internalID: -3211503463020225574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adab3f468e7e32270800000000000000
+      internalID: 8224672329820781274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4aee721c43cb690800000000000000
+      internalID: -7585129668195474217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa5ab08187c67a40800000000000000
+      internalID: 5365695365082929834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02d3c7e4484d7460800000000000000
+      internalID: 7241023236664971789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d154ba5fc6393c60800000000000000
+      internalID: 7798324493976621526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e516d5efe643f220800000000000000
+      internalID: 2518434612797380066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb284f3d94f81ba0800000000000000
+      internalID: -6117871137574081565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a66100045394eb0800000000000000
+      internalID: -4735194984207717805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9afc7d7216a6f530800000000000000
+      internalID: 3888477926625966748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4600d04303545a0800000000000000
+      internalID: -6537766283943844696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30459dae39fe2810800000000000000
+      internalID: 1742604153434488893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf324377fa94cee0800000000000000
+      internalID: -1241697209666093128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f895fddb08ec7aa0800000000000000
+      internalID: -6161795052483536652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3436d380187a220800000000000000
+      internalID: 2497106390789866465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64559b2df870a030800000000000000
+      internalID: 3503933538847511658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1a749f14850f5e0800000000000000
+      internalID: -1877904004235157069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c478818afbe639f0800000000000000
+      internalID: -488944048375565112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8aad695b28449e0800000000000000
+      internalID: -1638040648024414029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcd717c5cb9e3b50800000000000000
+      internalID: 6574863779758595256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc215374da70b73b0800000000000000
+      internalID: -5513804877979643189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba918c519febbca20800000000000000
+      internalID: 3083768346886805931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df193fc97a3119ce0800000000000000
+      internalID: -1400316398521839107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_45
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd24e21a970b61270800000000000000
+      internalID: 8220952206253114076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_46
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3880084c4013890800000000000000
+      internalID: -7480192264077540410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_47
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b58e71db401a5a0800000000000000
+      internalID: -6511918376004592758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_48
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b488ad4adaf00c0800000000000000
+      internalID: -4607272970224120941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d123c015c7a8830800000000000000
+      internalID: 4074205500448841102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e281742aa69e3054f89ea710df2b1a40
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_0: -8288609924752764588
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_1: -7822619197223450207
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_10: 2623467168178048878
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_11: 2940555019044183858
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_12: -9075554772092801970
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_13: 1358517098831778662
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_14: 1885039727356778729
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_15: 8604615815920822990
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_16: 7329853729291060600
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_17: -6444426904813768223
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_18: -6964941608493857871
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_19: 6584148759320861121
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_2: -3405379207505778278
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_20: 6289285717529539649
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_21: -543967573350381320
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_22: -3211503463020225574
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_23: 8224672329820781274
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_24: -7585129668195474217
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_25: 5365695365082929834
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_26: 7241023236664971789
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_27: 7798324493976621526
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_28: 2518434612797380066
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_29: -6117871137574081565
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_3: -3432403097055060205
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_30: -4735194984207717805
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_31: 3888477926625966748
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_32: -6537766283943844696
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_33: 1742604153434488893
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_34: -1241697209666093128
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_35: -6161795052483536652
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_36: 2497106390789866465
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_37: 3503933538847511658
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_38: -1877904004235157069
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_39: -488944048375565112
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_4: -721013601297179354
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_40: -1638040648024414029
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_41: 6574863779758595256
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_42: -5513804877979643189
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_43: 3083768346886805931
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_44: -1400316398521839107
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_45: 8220952206253114076
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_46: -7480192264077540410
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_47: -6511918376004592758
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_48: -4607272970224120941
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_49: 4074205500448841102
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_5: 1580924949741427402
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_50: -1890717536
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_51: -128820172
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_52: -1885049475
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_53: -1164620519
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_54: 1022387513
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_55: 898245251
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_6: 4557911511818454718
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_7: 5698921336016231270
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_8: 6997530326848144982
+      spawnmeteor-1706186806538-ezgif.com-gif-to-sprite-converter_9: 4441148437863111995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 346362
+  packageName: 2D Stickman Action Combat Platformer Animation Pack - 40+ Animations
+  packageVersion: 1.0.0
+  assetPath: Assets/MonishCreate/StickmanCombatPlatformerAnimations_1.0/SpriteSheets/CastMagic.png
+  uploadId: 823626

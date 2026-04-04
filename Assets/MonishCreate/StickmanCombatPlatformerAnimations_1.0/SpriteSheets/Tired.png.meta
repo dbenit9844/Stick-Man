@@ -1,0 +1,1972 @@
+fileFormatVersion: 2
+guid: ae38a433c19d8b041b578aef26f621b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6114430042511018676
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -2297220515355376311
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 5820321989597571216
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: 5127807439603458310
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -3366733544173379426
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -138633363429876686
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 3274721164715117062
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 4464922733259332672
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 4190856759439577269
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -3075338813941751249
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -5618530815986188246
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -8433470251468733211
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 1343147988628189573
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 7728487704107929758
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -7251813162784877818
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: 8459122049860268710
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 5939364984415386055
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: 9046290934301528907
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 7703651919752299634
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -4893181071234062988
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -6477260849869916124
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -4125735350261391171
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: -3650046209015736504
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -5408048019611028046
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: 9215633328798002757
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: -6272963026458466467
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: -1445047507146510749
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 8538297508632586298
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: -2668735853516499982
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 5581086868888097014
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: -1840025757910083224
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: -7684861686653001242
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: 875587243088388325
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: -7240976632101876064
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: 6178176319688917167
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: -5881520753667242150
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: -5579623004627599219
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: 874097354566905291
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: 3628491100169787461
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: -7399718163808112251
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: 6647927566478067733
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: -2835580406325903256
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: -5790497286533313194
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: 4559078950889226097
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: 1633761340475757592
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_44
+  - first:
+      213: -3598366382929499724
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_45
+  - first:
+      213: -525791739091948343
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_46
+  - first:
+      213: 6465314289148797424
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_47
+  - first:
+      213: 6581019698881083947
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_48
+  - first:
+      213: -7047875217882093531
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_49
+  - first:
+      213: -3225734131121778000
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_50
+  - first:
+      213: 4612083202309918059
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_51
+  - first:
+      213: 274255469673678101
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_52
+  - first:
+      213: 196146596270426013
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_53
+  - first:
+      213: -2096715896563418006
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_54
+  - first:
+      213: 7932667693187222313
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_55
+  - first:
+      213: -5700989001412834976
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_56
+  - first:
+      213: 335103210625267678
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_57
+  - first:
+      213: 3971382164813463918
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_58
+  - first:
+      213: -685467981361951599
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_59
+  - first:
+      213: -7955754597361619454
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_60
+  - first:
+      213: 7159839166237157336
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_61
+  - first:
+      213: 6197323912759167406
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_62
+  - first:
+      213: 8321360879846060126
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_63
+  - first:
+      213: 7440329174029667213
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_64
+  - first:
+      213: -8729735377253401065
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_65
+  - first:
+      213: 4816063977942319805
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_66
+  - first:
+      213: 8117274896727905092
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_67
+  - first:
+      213: 4000091265388524544
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_68
+  - first:
+      213: -2872079984211270177
+    second: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba88df5ab1dad450800000000000000
+      internalID: 6114430042511018676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945c08bcc12ae10e0800000000000000
+      internalID: -2297220515355376311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098ab5c1300f5c050800000000000000
+      internalID: 5820321989597571216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6016b22b2b1a92740800000000000000
+      internalID: 5127807439603458310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e906726eda5f641d0800000000000000
+      internalID: -3366733544173379426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c9eb2c0b9731ef0800000000000000
+      internalID: -138633363429876686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a4c419c85227d20800000000000000
+      internalID: 3274721164715117062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c1d79d19796fd30800000000000000
+      internalID: 4464922733259332672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0d0f2c40ae82a30800000000000000
+      internalID: 4190856759439577269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22e70f74a33255d0800000000000000
+      internalID: -3075338813941751249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20ce89bdf7f602b0800000000000000
+      internalID: -5618530815986188246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4c16d1d7b46fa80800000000000000
+      internalID: -8433470251468733211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581b6f6baf1d3a210800000000000000
+      internalID: 1343147988628189573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90d35e9e9a114b60800000000000000
+      internalID: 7728487704107929758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60394b6a9526c5b90800000000000000
+      internalID: -7251813162784877818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2789d9fa6d46570800000000000000
+      internalID: 8459122049860268710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9f8773cfcdc6250800000000000000
+      internalID: 5939364984415386055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4311e9eca1ea8d70800000000000000
+      internalID: 9046290934301528907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2748716fa9ed8ea60800000000000000
+      internalID: 7703651919752299634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475ad6badbde71cb0800000000000000
+      internalID: -4893181071234062988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42875f533952c16a0800000000000000
+      internalID: -6477260849869916124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0e56ade817eb6c0800000000000000
+      internalID: -4125735350261391171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8471bd9cf4e685dc0800000000000000
+      internalID: -3650046209015736504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b574deaaf0c2f4b0800000000000000
+      internalID: -5408048019611028046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e614f9fa184ef70800000000000000
+      internalID: 9215633328798002757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57a8ceec55f1f8a0800000000000000
+      internalID: -6272963026458466467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ee7fcc2f822fbe0800000000000000
+      internalID: -1445047507146510749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38e5a4a8502e7670800000000000000
+      internalID: 8538297508632586298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3dccb71eeb6fad0800000000000000
+      internalID: -2668735853516499982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f01ca8ffe0047d40800000000000000
+      internalID: 5581086868888097014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8695332725ae676e0800000000000000
+      internalID: -1840025757910083224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e90b1303e95590800000000000000
+      internalID: -7684861686653001242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0a52265f5b62c00800000000000000
+      internalID: 875587243088388325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aec9a01e12e28b90800000000000000
+      internalID: -7240976632101876064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0c9ce11aa4db550800000000000000
+      internalID: 6178176319688917167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5783924904a06ea0800000000000000
+      internalID: -5881520753667242150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80039c70723192b0800000000000000
+      internalID: -5579623004627599219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcda11ea9ea612c00800000000000000
+      internalID: 874097354566905291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54859485e6dfa5230800000000000000
+      internalID: 3628491100169787461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5813630198bee4990800000000000000
+      internalID: -7399718163808112251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518c37446ee224c50800000000000000
+      internalID: 6647927566478067733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86003ecd4aef5a8d0800000000000000
+      internalID: -2835580406325903256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d8153b56504afa0800000000000000
+      internalID: -5790497286533313194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f76ba962a154f30800000000000000
+      internalID: 4559078950889226097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814d2da78494ca610800000000000000
+      internalID: 1633761340475757592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9a7c5f6d8001ec0800000000000000
+      internalID: -3598366382929499724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cce695f23304b8f0800000000000000
+      internalID: -525791739091948343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_47
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1a8fd571969b950800000000000000
+      internalID: 6465314289148797424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ab7a36c8a745b50800000000000000
+      internalID: 6581019698881083947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_49
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528ebd0a4dae03e90800000000000000
+      internalID: -7047875217882093531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_50
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b212aef5e3eb33d0800000000000000
+      internalID: -3225734131121778000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_51
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d8a349c39610040800000000000000
+      internalID: 4612083202309918059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_52
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5158b9785e95ec300800000000000000
+      internalID: 274255469673678101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_53
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97c9924a4ad8b200800000000000000
+      internalID: 196146596270426013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c3c6e3008f6e2e0800000000000000
+      internalID: -2096715896563418006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_55
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b44a5ec3f761e60800000000000000
+      internalID: 7932667693187222313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069016655b402e0b0800000000000000
+      internalID: -5700989001412834976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_57
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed77968389686a400800000000000000
+      internalID: 335103210625267678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_58
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e614701a90f2d1730800000000000000
+      internalID: 3971382164813463918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_59
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c4402b08abc76f0800000000000000
+      internalID: -685467981361951599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_60
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e6418585b779190800000000000000
+      internalID: -7955754597361619454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_61
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7ae7889cbdc5360800000000000000
+      internalID: 7159839166237157336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_62
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea94b0a8341510650800000000000000
+      internalID: 6197323912759167406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e507e0bb1a96b7370800000000000000
+      internalID: 8321360879846060126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b830696fb514760800000000000000
+      internalID: 7440329174029667213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_65
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e76af2defb9d680800000000000000
+      internalID: -8729735377253401065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_66
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db28eccdba816d240800000000000000
+      internalID: 4816063977942319805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_67
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44399abe28a56a070800000000000000
+      internalID: 8117274896727905092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_68
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00430aeffcd238730800000000000000
+      internalID: 4000091265388524544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_69
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5e396a8725428d0800000000000000
+      internalID: -2872079984211270177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5bcdd89036282224b998f2b1dcaaa3f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_0: 6114430042511018676
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_1: -2297220515355376311
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_10: -5618530815986188246
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_11: -8433470251468733211
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_12: 1343147988628189573
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_13: 7728487704107929758
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_14: -7251813162784877818
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_15: 8459122049860268710
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_16: 5939364984415386055
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_17: 9046290934301528907
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_18: 7703651919752299634
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_19: -4893181071234062988
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_2: 5820321989597571216
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_20: -6477260849869916124
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_21: -4125735350261391171
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_22: -3650046209015736504
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_23: -5408048019611028046
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_24: 9215633328798002757
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_25: -6272963026458466467
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_26: -1445047507146510749
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_27: 8538297508632586298
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_28: -2668735853516499982
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_29: 5581086868888097014
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_3: 5127807439603458310
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_30: -1840025757910083224
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_31: -7684861686653001242
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_32: 875587243088388325
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_33: -7240976632101876064
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_34: 6178176319688917167
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_35: -5881520753667242150
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_36: -5579623004627599219
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_37: 874097354566905291
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_38: 3628491100169787461
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_39: -7399718163808112251
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_4: -3366733544173379426
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_40: 6647927566478067733
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_41: -2835580406325903256
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_42: -5790497286533313194
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_43: 4559078950889226097
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_44: 1633761340475757592
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_45: -3598366382929499724
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_46: -525791739091948343
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_47: 6465314289148797424
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_48: 6581019698881083947
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_49: -7047875217882093531
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_5: -138633363429876686
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_50: -3225734131121778000
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_51: 4612083202309918059
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_52: 274255469673678101
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_53: 196146596270426013
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_54: -2096715896563418006
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_55: 7932667693187222313
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_56: -5700989001412834976
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_57: 335103210625267678
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_58: 3971382164813463918
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_59: -685467981361951599
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_6: 3274721164715117062
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_60: -7955754597361619454
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_61: 7159839166237157336
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_62: 6197323912759167406
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_63: 8321360879846060126
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_64: 7440329174029667213
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_65: -8729735377253401065
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_66: 4816063977942319805
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_67: 8117274896727905092
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_68: 4000091265388524544
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_69: -2872079984211270177
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_7: 4464922733259332672
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_70: 2046169495
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_71: 1025274272
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_8: 4190856759439577269
+      whitetired-1705735686526-ezgif.com-gif-to-sprite-converter_9: -3075338813941751249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 346362
+  packageName: 2D Stickman Action Combat Platformer Animation Pack - 40+ Animations
+  packageVersion: 1.0.0
+  assetPath: Assets/MonishCreate/StickmanCombatPlatformerAnimations_1.0/SpriteSheets/Tired.png
+  uploadId: 823626

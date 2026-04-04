@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: a925c786576e807449ce315118f53d0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4066201083945647359
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_0
+  - first:
+      213: 6879663055235488482
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_1
+  - first:
+      213: 8596724878616754106
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_2
+  - first:
+      213: 6133061691141325040
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_3
+  - first:
+      213: -5814363652574266851
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_4
+  - first:
+      213: 4575288683493842254
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_5
+  - first:
+      213: -2814505830117729272
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_6
+  - first:
+      213: 8954525114558448653
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_7
+  - first:
+      213: 8179448418213111787
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_8
+  - first:
+      213: 5936834819469388209
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_9
+  - first:
+      213: -5239372522432851847
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_10
+  - first:
+      213: -2119182764992335798
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_11
+  - first:
+      213: 2228903004804176653
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_12
+  - first:
+      213: 5616881770474746811
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_13
+  - first:
+      213: 1403875400837383605
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_14
+  - first:
+      213: -5145760185419435475
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_15
+  - first:
+      213: 2005157544285888798
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_16
+  - first:
+      213: 3196875979971971022
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_17
+  - first:
+      213: 2245287007233549854
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_18
+  - first:
+      213: -6474820668795363488
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_19
+  - first:
+      213: -3381662778452337861
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_20
+  - first:
+      213: 1187218688133187461
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_21
+  - first:
+      213: 1555412803665240020
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_22
+  - first:
+      213: 4171190859828741149
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_23
+  - first:
+      213: -587725311192049310
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_24
+  - first:
+      213: 3796946451515703092
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_25
+  - first:
+      213: -5411963338147128943
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_26
+  - first:
+      213: -8556429014380750695
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_27
+  - first:
+      213: -3816260194418175165
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_28
+  - first:
+      213: 2689899519630939474
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_29
+  - first:
+      213: 2138536875653418849
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_30
+  - first:
+      213: -9095077255900550407
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_31
+  - first:
+      213: -1775011603297517616
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_32
+  - first:
+      213: -64907199827547275
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_33
+  - first:
+      213: 7727091438318551149
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_34
+  - first:
+      213: -996146491655132295
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_35
+  - first:
+      213: -3918306630640496342
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_36
+  - first:
+      213: 2458708704699023171
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_37
+  - first:
+      213: 4916973619058625341
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_38
+  - first:
+      213: 8490278406787561362
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_39
+  - first:
+      213: -163411007958021063
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_40
+  - first:
+      213: 6612991232023421440
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_41
+  - first:
+      213: -1496807173888553073
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_42
+  - first:
+      213: 5891550156150621723
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_43
+  - first:
+      213: -2595927290483704221
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_44
+  - first:
+      213: -7821921235221301517
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_45
+  - first:
+      213: -373384268081684114
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_46
+  - first:
+      213: -8495181208798830219
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_47
+  - first:
+      213: -5821261340761054558
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_48
+  - first:
+      213: -6012576665336548217
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_49
+  - first:
+      213: 5262238554029938487
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_50
+  - first:
+      213: -7292334979460498001
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_51
+  - first:
+      213: 3469697036321953124
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_52
+  - first:
+      213: 4936464337454552508
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_53
+  - first:
+      213: 2401829411083993625
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_54
+  - first:
+      213: -4153767493323760119
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_55
+  - first:
+      213: 8271186636000650333
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_56
+  - first:
+      213: 4253624390115034541
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_57
+  - first:
+      213: 3302908452321619389
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_58
+  - first:
+      213: 8379085089074217074
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_59
+  - first:
+      213: 4245696474383742563
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_60
+  - first:
+      213: 6090392632332492701
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_61
+  - first:
+      213: 1395476828943786497
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_62
+  - first:
+      213: 584120637166706741
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_63
+  - first:
+      213: -8066777677804347888
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_64
+  - first:
+      213: 4305213619698770040
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_65
+  - first:
+      213: 9163658715452147614
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_66
+  - first:
+      213: 8372002512383951486
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_67
+  - first:
+      213: -1222222803329111489
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_68
+  - first:
+      213: -6911152770294094227
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_69
+  - first:
+      213: -7077555713608724307
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_70
+  - first:
+      213: 3661952274731093600
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_71
+  - first:
+      213: 3423721812957605910
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_72
+  - first:
+      213: -6866333172777461623
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_73
+  - first:
+      213: -8498128959805598202
+    second: jubwalk-1730989314128-ezgif.com-gif-maker_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc73e9975c0e6830800000000000000
+      internalID: 4066201083945647359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5760
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea90b54919797f50800000000000000
+      internalID: 6879663055235488482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_2
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5760
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7f6bdcab3bd4770800000000000000
+      internalID: 8596724878616754106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_3
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5760
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0090e1d130d1550800000000000000
+      internalID: 6133061691141325040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_4
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 5760
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a3e55501b3f4fa0800000000000000
+      internalID: -5814363652574266851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_5
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5760
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dd38411d0be7f30800000000000000
+      internalID: 4575288683493842254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_6
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5760
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c11910cddd0f8d0800000000000000
+      internalID: -2814505830117729272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_7
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 5760
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d040299062dd44c70800000000000000
+      internalID: 8954525114558448653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_8
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5760
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be72932fffc338170800000000000000
+      internalID: 8179448418213111787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5040
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9a4a840dfd36250800000000000000
+      internalID: 5936834819469388209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5040
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970927243720a47b0800000000000000
+      internalID: -5239372522432851847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_11
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5040
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40708ec0862792e0800000000000000
+      internalID: -2119182764992335798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_12
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5040
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b57204977aeee10800000000000000
+      internalID: 2228903004804176653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_13
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 5040
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3b382f53c23fd40800000000000000
+      internalID: 5616881770474746811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_14
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5040
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b542df2d319b7310800000000000000
+      internalID: 1403875400837383605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_15
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5040
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22f9b0ff569698b0800000000000000
+      internalID: -5145760185419435475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_16
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 5040
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11ead9a920c3db10800000000000000
+      internalID: 2005157544285888798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_17
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5040
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7453914c59d5c20800000000000000
+      internalID: 3196875979971971022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16a4f413acd82f10800000000000000
+      internalID: 2245287007233549854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f581428e0d426a0800000000000000
+      internalID: -6474820668795363488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_20
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b103cae9be111d0800000000000000
+      internalID: -3381662778452337861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_21
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58742e05b19d97010800000000000000
+      internalID: 1187218688133187461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_22
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df9f8934bfe59510800000000000000
+      internalID: 1555412803665240020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_23
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14c272bcfb03e930800000000000000
+      internalID: 4171190859828741149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_24
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26954e081faf7d7f0800000000000000
+      internalID: -587725311192049310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_25
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ff5c93ea671b430800000000000000
+      internalID: 3796946451515703092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_26
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4320
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1999d4c8408d4e4b0800000000000000
+      internalID: -5411963338147128943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9985df33525714980800000000000000
+      internalID: -8556429014380750695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_28
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343dd35929be90bc0800000000000000
+      internalID: -3816260194418175165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25598158c51745520800000000000000
+      internalID: 2689899519630939474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_30
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f456c35fb9dad10800000000000000
+      internalID: 2138536875653418849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_31
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa205d6c6bc7c180800000000000000
+      internalID: -9095077255900550407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_32
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df3149e954ed57e0800000000000000
+      internalID: -1775011603297517616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_33
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57be9e2ee37691ff0800000000000000
+      internalID: -64907199827547275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_34
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6080f729b42c3b60800000000000000
+      internalID: 7727091438318551149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_35
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3600
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97be4ac2b0afc22f0800000000000000
+      internalID: -996146491655132295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a219d9721e06f99c0800000000000000
+      internalID: -3918306630640496342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ffeb54a861f1220800000000000000
+      internalID: 2458708704699023171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_38
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bc4fd84799c3440800000000000000
+      internalID: 4916973619058625341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297fdb04a3783d570800000000000000
+      internalID: 8490278406787561362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_40
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c0646dd827bbdf0800000000000000
+      internalID: -163411007958021063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_41
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00267870d7016cb50800000000000000
+      internalID: 6612991232023421440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_42
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fcd174ec54a3be0800000000000000
+      internalID: -1496807173888553073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_43
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1641c9f6adf2c150800000000000000
+      internalID: 5891550156150621723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_44
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2880
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ef9f312e969fbd0800000000000000
+      internalID: -2595927290483704221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6bc813414f27390800000000000000
+      internalID: -7821921235221301517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61a5488cf871daf0800000000000000
+      internalID: -373384268081684114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_47
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571e8f233bd0b1a80800000000000000
+      internalID: -8495181208798830219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_48
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2293727a9b63fa0800000000000000
+      internalID: -5821261340761054558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_49
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784ffcdf0690f8ca0800000000000000
+      internalID: -6012576665336548217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_50
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737d158951a370940800000000000000
+      internalID: 5262238554029938487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_51
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadf91ef8fb6cca90800000000000000
+      internalID: -7292334979460498001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_52
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46512304217d62030800000000000000
+      internalID: 3469697036321953124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_53
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2160
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5dc501928d18440800000000000000
+      internalID: 4936464337454552508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9124fbabf13055120800000000000000
+      internalID: 2401829411083993625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_55
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e5fd0f87ada56c0800000000000000
+      internalID: -4153767493323760119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_56
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54e6cd3c6829c270800000000000000
+      internalID: 8271186636000650333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_57
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da58ebc98d8e70b30800000000000000
+      internalID: 4253624390115034541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_58
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbde342ecb946dd20800000000000000
+      internalID: 3302908452321619389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_59
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2708a058e7d784470800000000000000
+      internalID: 8379085089074217074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_60
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36675c3e27ebbea30800000000000000
+      internalID: 4245696474383742563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_61
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f95d0b4db658450800000000000000
+      internalID: 6090392632332492701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_62
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1440
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102ab7948cabd5310800000000000000
+      internalID: 1395476828943786497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530eb4cef963b1800800000000000000
+      internalID: 584120637166706741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_64
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01edb60117c0d0090800000000000000
+      internalID: -8066777677804347888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_65
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870a1542af03fbb30800000000000000
+      internalID: 4305213619698770040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_66
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e970071fc0bdb2f70800000000000000
+      internalID: 9163658715452147614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_67
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72c251ade35f2470800000000000000
+      internalID: 8372002512383951486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_68
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aaf2306dac90fe0800000000000000
+      internalID: -1222222803329111489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_69
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66e92a1c27a610a0800000000000000
+      internalID: -6911152770294094227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_70
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0d054b39877cd90800000000000000
+      internalID: -7077555713608724307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_71
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 720
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ec7c7213ed1d230800000000000000
+      internalID: 3661952274731093600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610381769d0838f20800000000000000
+      internalID: 3423721812957605910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9885e17db52e5b0a0800000000000000
+      internalID: -6866333172777461623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jubwalk-1730989314128-ezgif.com-gif-maker_74
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606d35f6cb4901a80800000000000000
+      internalID: -8498128959805598202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 409b4daf442b7654f94a720cbebc6686
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jubwalk-1730989314128-ezgif.com-gif-maker_0: 4066201083945647359
+      jubwalk-1730989314128-ezgif.com-gif-maker_1: 6879663055235488482
+      jubwalk-1730989314128-ezgif.com-gif-maker_10: -5239372522432851847
+      jubwalk-1730989314128-ezgif.com-gif-maker_11: -2119182764992335798
+      jubwalk-1730989314128-ezgif.com-gif-maker_12: 2228903004804176653
+      jubwalk-1730989314128-ezgif.com-gif-maker_13: 5616881770474746811
+      jubwalk-1730989314128-ezgif.com-gif-maker_14: 1403875400837383605
+      jubwalk-1730989314128-ezgif.com-gif-maker_15: -5145760185419435475
+      jubwalk-1730989314128-ezgif.com-gif-maker_16: 2005157544285888798
+      jubwalk-1730989314128-ezgif.com-gif-maker_17: 3196875979971971022
+      jubwalk-1730989314128-ezgif.com-gif-maker_18: 2245287007233549854
+      jubwalk-1730989314128-ezgif.com-gif-maker_19: -6474820668795363488
+      jubwalk-1730989314128-ezgif.com-gif-maker_2: 8596724878616754106
+      jubwalk-1730989314128-ezgif.com-gif-maker_20: -3381662778452337861
+      jubwalk-1730989314128-ezgif.com-gif-maker_21: 1187218688133187461
+      jubwalk-1730989314128-ezgif.com-gif-maker_22: 1555412803665240020
+      jubwalk-1730989314128-ezgif.com-gif-maker_23: 4171190859828741149
+      jubwalk-1730989314128-ezgif.com-gif-maker_24: -587725311192049310
+      jubwalk-1730989314128-ezgif.com-gif-maker_25: 3796946451515703092
+      jubwalk-1730989314128-ezgif.com-gif-maker_26: -5411963338147128943
+      jubwalk-1730989314128-ezgif.com-gif-maker_27: -8556429014380750695
+      jubwalk-1730989314128-ezgif.com-gif-maker_28: -3816260194418175165
+      jubwalk-1730989314128-ezgif.com-gif-maker_29: 2689899519630939474
+      jubwalk-1730989314128-ezgif.com-gif-maker_3: 6133061691141325040
+      jubwalk-1730989314128-ezgif.com-gif-maker_30: 2138536875653418849
+      jubwalk-1730989314128-ezgif.com-gif-maker_31: -9095077255900550407
+      jubwalk-1730989314128-ezgif.com-gif-maker_32: -1775011603297517616
+      jubwalk-1730989314128-ezgif.com-gif-maker_33: -64907199827547275
+      jubwalk-1730989314128-ezgif.com-gif-maker_34: 7727091438318551149
+      jubwalk-1730989314128-ezgif.com-gif-maker_35: -996146491655132295
+      jubwalk-1730989314128-ezgif.com-gif-maker_36: -3918306630640496342
+      jubwalk-1730989314128-ezgif.com-gif-maker_37: 2458708704699023171
+      jubwalk-1730989314128-ezgif.com-gif-maker_38: 4916973619058625341
+      jubwalk-1730989314128-ezgif.com-gif-maker_39: 8490278406787561362
+      jubwalk-1730989314128-ezgif.com-gif-maker_4: -5814363652574266851
+      jubwalk-1730989314128-ezgif.com-gif-maker_40: -163411007958021063
+      jubwalk-1730989314128-ezgif.com-gif-maker_41: 6612991232023421440
+      jubwalk-1730989314128-ezgif.com-gif-maker_42: -1496807173888553073
+      jubwalk-1730989314128-ezgif.com-gif-maker_43: 5891550156150621723
+      jubwalk-1730989314128-ezgif.com-gif-maker_44: -2595927290483704221
+      jubwalk-1730989314128-ezgif.com-gif-maker_45: -7821921235221301517
+      jubwalk-1730989314128-ezgif.com-gif-maker_46: -373384268081684114
+      jubwalk-1730989314128-ezgif.com-gif-maker_47: -8495181208798830219
+      jubwalk-1730989314128-ezgif.com-gif-maker_48: -5821261340761054558
+      jubwalk-1730989314128-ezgif.com-gif-maker_49: -6012576665336548217
+      jubwalk-1730989314128-ezgif.com-gif-maker_5: 4575288683493842254
+      jubwalk-1730989314128-ezgif.com-gif-maker_50: 5262238554029938487
+      jubwalk-1730989314128-ezgif.com-gif-maker_51: -7292334979460498001
+      jubwalk-1730989314128-ezgif.com-gif-maker_52: 3469697036321953124
+      jubwalk-1730989314128-ezgif.com-gif-maker_53: 4936464337454552508
+      jubwalk-1730989314128-ezgif.com-gif-maker_54: 2401829411083993625
+      jubwalk-1730989314128-ezgif.com-gif-maker_55: -4153767493323760119
+      jubwalk-1730989314128-ezgif.com-gif-maker_56: 8271186636000650333
+      jubwalk-1730989314128-ezgif.com-gif-maker_57: 4253624390115034541
+      jubwalk-1730989314128-ezgif.com-gif-maker_58: 3302908452321619389
+      jubwalk-1730989314128-ezgif.com-gif-maker_59: 8379085089074217074
+      jubwalk-1730989314128-ezgif.com-gif-maker_6: -2814505830117729272
+      jubwalk-1730989314128-ezgif.com-gif-maker_60: 4245696474383742563
+      jubwalk-1730989314128-ezgif.com-gif-maker_61: 6090392632332492701
+      jubwalk-1730989314128-ezgif.com-gif-maker_62: 1395476828943786497
+      jubwalk-1730989314128-ezgif.com-gif-maker_63: 584120637166706741
+      jubwalk-1730989314128-ezgif.com-gif-maker_64: -8066777677804347888
+      jubwalk-1730989314128-ezgif.com-gif-maker_65: 4305213619698770040
+      jubwalk-1730989314128-ezgif.com-gif-maker_66: 9163658715452147614
+      jubwalk-1730989314128-ezgif.com-gif-maker_67: 8372002512383951486
+      jubwalk-1730989314128-ezgif.com-gif-maker_68: -1222222803329111489
+      jubwalk-1730989314128-ezgif.com-gif-maker_69: -6911152770294094227
+      jubwalk-1730989314128-ezgif.com-gif-maker_7: 8954525114558448653
+      jubwalk-1730989314128-ezgif.com-gif-maker_70: -7077555713608724307
+      jubwalk-1730989314128-ezgif.com-gif-maker_71: 3661952274731093600
+      jubwalk-1730989314128-ezgif.com-gif-maker_72: 3423721812957605910
+      jubwalk-1730989314128-ezgif.com-gif-maker_73: -6866333172777461623
+      jubwalk-1730989314128-ezgif.com-gif-maker_74: -8498128959805598202
+      jubwalk-1730989314128-ezgif.com-gif-maker_75: 1069095329
+      jubwalk-1730989314128-ezgif.com-gif-maker_76: -1736300439
+      jubwalk-1730989314128-ezgif.com-gif-maker_77: -197954919
+      jubwalk-1730989314128-ezgif.com-gif-maker_78: 2122801475
+      jubwalk-1730989314128-ezgif.com-gif-maker_79: 866674504
+      jubwalk-1730989314128-ezgif.com-gif-maker_8: 8179448418213111787
+      jubwalk-1730989314128-ezgif.com-gif-maker_80: -2075302290
+      jubwalk-1730989314128-ezgif.com-gif-maker_9: 5936834819469388209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 346362
+  packageName: 2D Stickman Action Combat Platformer Animation Pack - 40+ Animations
+  packageVersion: 1.0.0
+  assetPath: Assets/MonishCreate/StickmanCombatPlatformerAnimations_1.0/SpriteSheets/WalkCooler.png
+  uploadId: 823626

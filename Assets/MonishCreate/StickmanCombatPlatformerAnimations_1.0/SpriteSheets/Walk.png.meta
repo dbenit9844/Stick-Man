@@ -1,0 +1,1606 @@
+fileFormatVersion: 2
+guid: 0bd833568a3f40f42adfd99a038b9101
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4518922403122974305
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -8311087767346537997
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 5488856790942804264
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: 6564183842532113759
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -6548255574030339336
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 2511243867163388792
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -5168906262945368524
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: -6854203467031577139
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 8102485267700502718
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 2782098989448293819
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -6609726589340780499
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -4649503196323558187
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 6425707197304486839
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 5347220454865815250
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -8948039022466855586
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: -5287363322738197186
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: -6587503873858009078
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: 8237789841627712484
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: -3685272503431427060
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: 6038653982783470202
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: 3296796318864594370
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -8999996047760210224
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: -26626672459649119
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: 1563420238705008526
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: -6219235037951988963
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: -9025271144657217631
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 6661443457985415666
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 7106135226261940761
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: 6889646070595680439
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 5340658554310245390
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: -3840253644519166068
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: 2182374607685607638
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: 8795083909528171695
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: -4793461473616299719
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: 6384054155516210471
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: -9012185200386521167
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: -3976764241598000087
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: 7326360979537013222
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: 7047525432442804456
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: 2599188224382208102
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: -4858474217596679441
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: 5621062531817210366
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: -2593413793988619315
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: 1209360207293318431
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: -3644348250649452387
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_44
+  - first:
+      213: -9126803003416343585
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_45
+  - first:
+      213: 2867811454950181322
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_46
+  - first:
+      213: 8662449085836545919
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_47
+  - first:
+      213: 5219913975336473457
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_48
+  - first:
+      213: 7921953640205854761
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_49
+  - first:
+      213: -979099003472091770
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_50
+  - first:
+      213: -2162150920397466463
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_51
+  - first:
+      213: 6894956168741640033
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_52
+  - first:
+      213: 9214897496103687060
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_53
+  - first:
+      213: 4069319889831294459
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_54
+  - first:
+      213: -188803346900176693
+    second: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91fc4244009941c0800000000000000
+      internalID: -4518922403122974305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9173aa5b519ac80800000000000000
+      internalID: -8311087767346537997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829e22f8b265c2c40800000000000000
+      internalID: 5488856790942804264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d3c7e1d6aa81b50800000000000000
+      internalID: 6564183842532113759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f23373ef3cef15a0800000000000000
+      internalID: -6548255574030339336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87be6a6fdfab9d220800000000000000
+      internalID: 2511243867163388792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43679dfc32b5448b0800000000000000
+      internalID: -5168906262945368524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf459034af0e0a0800000000000000
+      internalID: -6854203467031577139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0df131c6fc17070800000000000000
+      internalID: 8102485267700502718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbde90c6a400c9620800000000000000
+      internalID: 2782098989448293819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2873e3dfa88544a0800000000000000
+      internalID: -6609726589340780499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc47112a75a97fb0800000000000000
+      internalID: -4649503196323558187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb310ea6a2bc2950800000000000000
+      internalID: 6425707197304486839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6caf34ca4253a40800000000000000
+      internalID: 5347220454865815250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d8785faed22d380800000000000000
+      internalID: -8948039022466855586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3db2c552138f96b0800000000000000
+      internalID: -5287363322738197186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a080f2af02c7494a0800000000000000
+      internalID: -6587503873858009078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb8a8c1732825270800000000000000
+      internalID: 8237789841627712484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c847cfe284bdcc0800000000000000
+      internalID: -3685272503431427060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a7e4d9dcb9dc350800000000000000
+      internalID: 6038653982783470202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c55dbae8c290cd20800000000000000
+      internalID: 3296796318864594370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d645515747991380800000000000000
+      internalID: -8999996047760210224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afed76be2761aff0800000000000000
+      internalID: -26626672459649119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f1baa7c6262b510800000000000000
+      internalID: 1563420238705008526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b65341fa6d0b9a0800000000000000
+      internalID: -6219235037951988963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a79f1d36bbcfb280800000000000000
+      internalID: -9025271144657217631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9029cf783327c50800000000000000
+      internalID: 6661443457985415666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aab3f96501e9260800000000000000
+      internalID: 7106135226261940761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8750a2990fc9f50800000000000000
+      internalID: 6889646070595680439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c305cb8a4dd1a40800000000000000
+      internalID: 5340658554310245390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f290728ada4bac0800000000000000
+      internalID: -3840253644519166068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0eee9942a594e10800000000000000
+      internalID: 2182374607685607638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa43e25a73a6e0a70800000000000000
+      internalID: 8795083909528171695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9397494cf243a7db0800000000000000
+      internalID: -4793461473616299719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d66662e67b89850800000000000000
+      internalID: 6384054155516210471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7cde01f494ee280800000000000000
+      internalID: -9012185200386521167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9245318fdf1bfc8c0800000000000000
+      internalID: -3976764241598000087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e926918e767ca560800000000000000
+      internalID: 7326360979537013222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8d84a9a07ddc160800000000000000
+      internalID: 7047525432442804456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6680ea24beb221420800000000000000
+      internalID: 2599188224382208102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea81cdb07b339cb0800000000000000
+      internalID: -4858474217596679441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1093d4796020e40800000000000000
+      internalID: 5621062531817210366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3d5b515e7520cd0800000000000000
+      internalID: -2593413793988619315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15063973b288c010800000000000000
+      internalID: 1209360207293318431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90293a139cac6dc0800000000000000
+      internalID: -3644348250649452387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_45
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb86663605175180800000000000000
+      internalID: -9126803003416343585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_46
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac90a1fe2538cc720800000000000000
+      internalID: 2867811454950181322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_47
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fc1364c83373870800000000000000
+      internalID: 8662449085836545919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_48
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1731702ba1cd07840800000000000000
+      internalID: 5219913975336473457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928259b0dde60fd60800000000000000
+      internalID: 7921953640205854761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6856b12d4aa8962f0800000000000000
+      internalID: -979099003472091770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_51
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4dce6813f7ef1e0800000000000000
+      internalID: -2162150920397466463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_52
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167dbbbba1ecfaf50800000000000000
+      internalID: 6894956168741640033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_53
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49395e83374e1ef70800000000000000
+      internalID: 9214897496103687060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_54
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf573de21e0297830800000000000000
+      internalID: 4069319889831294459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jalk-1706796641057-ezgif.com-gif-to-sprite-converter_55
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc03c973b5c316df0800000000000000
+      internalID: -188803346900176693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cf860e9758e60c44e93c3bd664cca4ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_0: -4518922403122974305
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_1: -8311087767346537997
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_10: -6609726589340780499
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_11: -4649503196323558187
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_12: 6425707197304486839
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_13: 5347220454865815250
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_14: -8948039022466855586
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_15: -5287363322738197186
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_16: -6587503873858009078
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_17: 8237789841627712484
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_18: -3685272503431427060
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_19: 6038653982783470202
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_2: 5488856790942804264
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_20: 3296796318864594370
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_21: -8999996047760210224
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_22: -26626672459649119
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_23: 1563420238705008526
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_24: -6219235037951988963
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_25: -9025271144657217631
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_26: 6661443457985415666
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_27: 7106135226261940761
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_28: 6889646070595680439
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_29: 5340658554310245390
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_3: 6564183842532113759
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_30: -3840253644519166068
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_31: 2182374607685607638
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_32: 8795083909528171695
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_33: -4793461473616299719
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_34: 6384054155516210471
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_35: -9012185200386521167
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_36: -3976764241598000087
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_37: 7326360979537013222
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_38: 7047525432442804456
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_39: 2599188224382208102
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_4: -6548255574030339336
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_40: -4858474217596679441
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_41: 5621062531817210366
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_42: -2593413793988619315
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_43: 1209360207293318431
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_44: -3644348250649452387
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_45: -9126803003416343585
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_46: 2867811454950181322
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_47: 8662449085836545919
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_48: 5219913975336473457
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_49: 7921953640205854761
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_5: 2511243867163388792
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_50: -979099003472091770
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_51: -2162150920397466463
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_52: 6894956168741640033
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_53: 9214897496103687060
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_54: 4069319889831294459
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_55: -188803346900176693
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_6: -5168906262945368524
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_7: -6854203467031577139
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_8: 8102485267700502718
+      jalk-1706796641057-ezgif.com-gif-to-sprite-converter_9: 2782098989448293819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 346362
+  packageName: 2D Stickman Action Combat Platformer Animation Pack - 40+ Animations
+  packageVersion: 1.0.0
+  assetPath: Assets/MonishCreate/StickmanCombatPlatformerAnimations_1.0/SpriteSheets/Walk.png
+  uploadId: 823626

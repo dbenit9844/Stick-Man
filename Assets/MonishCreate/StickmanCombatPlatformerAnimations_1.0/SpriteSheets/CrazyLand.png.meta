@@ -1,0 +1,1762 @@
+fileFormatVersion: 2
+guid: fe30f601a294f134981f97318eda8e4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -160982462187757018
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -7838972037747223317
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -4307018702909723879
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -3403757049158523954
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: 663597285549505293
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 5939598419357840664
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -3098965535101322245
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 1154991008594722196
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 388098255906048069
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 396793637468162162
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: 7838672187234905126
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: 5684255912851661820
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: -1040649338485302708
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 7534850230990756880
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -3189234416968414226
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: -1669704756231575638
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 1350094303812218333
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -1921686888057803784
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 5578939666482452220
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: 7465862677796300319
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -1292443358194732871
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: 368340331230306354
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: 6071680443421258635
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -8721198723847770967
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: -7998560914179673494
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: -781810482721019093
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: -8399685415249650045
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 1882515572563501919
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: 841042114351287439
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 1625022394244989442
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: 6823500147945085053
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: 1004274117093059811
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: 4907388267473433760
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: 7370945017655969877
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: -4255191611581866504
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: -5036015461298854905
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: 2299292981470629111
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: -1803531075035093750
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: 2371296314834590335
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: 3357056776670159680
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: -181427247947989479
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: -1295563677391837547
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: -7462952641432298334
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: -1706386091351383762
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: -2668294916548019021
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_44
+  - first:
+      213: -2472622392864949185
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_45
+  - first:
+      213: -2420595453820254844
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_46
+  - first:
+      213: -4179508851377156901
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_47
+  - first:
+      213: -6364702933373859487
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_48
+  - first:
+      213: 8499716733271276975
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_49
+  - first:
+      213: 2325024501262568025
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_50
+  - first:
+      213: 1290997085374138272
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_51
+  - first:
+      213: 2193770026532866482
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_52
+  - first:
+      213: 7372897679191557096
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_53
+  - first:
+      213: -4388331330978132087
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_54
+  - first:
+      213: -3894626929075666741
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_55
+  - first:
+      213: 8850147501084521238
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_56
+  - first:
+      213: -2552773377959758345
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_57
+  - first:
+      213: -3401768340377353938
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_58
+  - first:
+      213: 7253320588351647875
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_59
+  - first:
+      213: 6155902075893865890
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_60
+  - first:
+      213: -1722588323943399773
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_61
+  - first:
+      213: -8786133178820739057
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_62
+  - first:
+      213: 7737976585004682729
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_63
+  - first:
+      213: 3534778361452911304
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_64
+  - first:
+      213: 2609135804127489126
+    second: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6222b36bd4314cdf0800000000000000
+      internalID: -160982462187757018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be45bddd670663390800000000000000
+      internalID: -7838972037747223317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b2a1c2f456a34c0800000000000000
+      internalID: -4307018702909723879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3ac276ffc63c0d0800000000000000
+      internalID: -3403757049158523954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b771f1732953900800000000000000
+      internalID: 663597285549505293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815bb460b41bd6250800000000000000
+      internalID: 5939598419357840664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb7b1dc3434ef4d0800000000000000
+      internalID: -3098965535101322245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dfe02f33a570010800000000000000
+      internalID: 1154991008594722196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5488a39be4dc26500800000000000000
+      internalID: 388098255906048069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278cc6206b1b18500800000000000000
+      internalID: 396793637468162162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ceedeb2de88cc60800000000000000
+      internalID: 7838672187234905126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3efe1e2a882ee40800000000000000
+      internalID: 5684255912851661820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a96d3b0fede81f0800000000000000
+      internalID: -1040649338485302708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c59fd1d5a219860800000000000000
+      internalID: 7534850230990756880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebc52fe1309db3d0800000000000000
+      internalID: -3189234416968414226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa76905ee5404d8e0800000000000000
+      internalID: -1669704756231575638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd6100cd9f7cb210800000000000000
+      internalID: 1350094303812218333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbe9c3f4fbc455e0800000000000000
+      internalID: -1921686888057803784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6d50471106c6d40800000000000000
+      internalID: 5578939666482452220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1625e3bc821c9760800000000000000
+      internalID: 7465862677796300319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b07d760d91501ee0800000000000000
+      internalID: -1292443358194732871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230ae67649b9c1500800000000000000
+      internalID: 368340331230306354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b837fc3b131f24450800000000000000
+      internalID: 6071680443421258635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aca671b7f318f680800000000000000
+      internalID: -8721198723847770967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a623ffb0a376ff090800000000000000
+      internalID: -7998560914179673494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bacb712837625f0800000000000000
+      internalID: -781810482721019093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ed3074e925e6b80800000000000000
+      internalID: -8399685415249650045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53e9c270f9002a10800000000000000
+      internalID: 1882515572563501919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c4d03d85bfbab00800000000000000
+      internalID: 841042114351287439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2020701024d3d8610800000000000000
+      internalID: 1625022394244989442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78971b6b31f1be50800000000000000
+      internalID: 6823500147945085053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec63761df5efed00800000000000000
+      internalID: 1004274117093059811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a47ca9f0ab8a1440800000000000000
+      internalID: 4907388267473433760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558c15cc07bda4660800000000000000
+      internalID: 7370945017655969877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdd07436c582f4c0800000000000000
+      internalID: -4255191611581866504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70428e1be9a7c1ab0800000000000000
+      internalID: -5036015461298854905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc0b13d8cab8ef10800000000000000
+      internalID: 2299292981470629111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05a723fa0298f6e0800000000000000
+      internalID: -1803531075035093750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a98e64f6988e020800000000000000
+      internalID: 2371296314834590335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0432e381a59a69e20800000000000000
+      internalID: 3357056776670159680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ebb7511e07b7df0800000000000000
+      internalID: -181427247947989479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596292913bb350ee0800000000000000
+      internalID: -1295563677391837547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac5ddfec144e6890800000000000000
+      internalID: -7462952641432298334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21655704e2b158e0800000000000000
+      internalID: -1706386091351383762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcbc2f19ef48fad0800000000000000
+      internalID: -2668294916548019021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cbb91c80b7fadd0800000000000000
+      internalID: -2472622392864949185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4854e167241586ed0800000000000000
+      internalID: -2420595453820254844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_47
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc401af7d66ff5c0800000000000000
+      internalID: -4179508851377156901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1694d5b57680ca7a0800000000000000
+      internalID: -6364702933373859487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadf312e55f05f570800000000000000
+      internalID: 8499716733271276975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac5d32775244020800000000000000
+      internalID: 2325024501262568025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a74ac7520b8ae110800000000000000
+      internalID: 1290997085374138272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_52
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9046e4736d17e10800000000000000
+      internalID: 2193770026532866482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_53
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3c38d306bc15660800000000000000
+      internalID: 7372897679191557096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_54
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fc454a7e38913c0800000000000000
+      internalID: -4388331330978132087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_55
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc046cf417183f9c0800000000000000
+      internalID: -3894626929075666741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61334fb134a02da70800000000000000
+      internalID: 8850147501084521238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f572ae432ab29cd0800000000000000
+      internalID: -2552773377959758345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2143afb7bd7ac0d0800000000000000
+      internalID: -3401768340377353938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_59
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3803ab635a8f8a460800000000000000
+      internalID: 7253320588351647875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_60
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad5eb992582e6550800000000000000
+      internalID: 6155902075893865890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 27073d87f84f13545b4ce59128a8cd08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_0: -160982462187757018
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_1: -7838972037747223317
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_10: 7838672187234905126
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_11: 5684255912851661820
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_12: -1040649338485302708
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_13: 7534850230990756880
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_14: -3189234416968414226
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_15: -1669704756231575638
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_16: 1350094303812218333
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_17: -1921686888057803784
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_18: 5578939666482452220
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_19: 7465862677796300319
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_2: -4307018702909723879
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_20: -1292443358194732871
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_21: 368340331230306354
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_22: 6071680443421258635
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_23: -8721198723847770967
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_24: -7998560914179673494
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_25: -781810482721019093
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_26: -8399685415249650045
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_27: 1882515572563501919
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_28: 841042114351287439
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_29: 1625022394244989442
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_3: -3403757049158523954
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_30: 6823500147945085053
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_31: 1004274117093059811
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_32: 4907388267473433760
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_33: 7370945017655969877
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_34: -4255191611581866504
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_35: -5036015461298854905
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_36: 2299292981470629111
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_37: -1803531075035093750
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_38: 2371296314834590335
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_39: 3357056776670159680
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_4: 663597285549505293
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_40: -181427247947989479
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_41: -1295563677391837547
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_42: -7462952641432298334
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_43: -1706386091351383762
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_44: -2668294916548019021
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_45: -2472622392864949185
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_46: -2420595453820254844
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_47: -4179508851377156901
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_48: -6364702933373859487
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_49: 8499716733271276975
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_5: 5939598419357840664
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_50: 2325024501262568025
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_51: 1290997085374138272
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_52: 2193770026532866482
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_53: 7372897679191557096
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_54: -4388331330978132087
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_55: -3894626929075666741
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_56: 8850147501084521238
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_57: -2552773377959758345
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_58: -3401768340377353938
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_59: 7253320588351647875
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_6: -3098965535101322245
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_60: 6155902075893865890
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_61: -1722588323943399773
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_62: -8786133178820739057
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_63: 7737976585004682729
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_64: 3534778361452911304
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_65: 2609135804127489126
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_66: -1151962674
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_67: -78101033
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_68: -307605117
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_69: -1940370429
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_7: 1154991008594722196
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_70: 1128147613
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_71: 1645616924
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_8: 388098255906048069
+      landtofightidle-1706869743942-ezgif.com-gif-to-sprite-converter_9: 396793637468162162
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 346362
+  packageName: 2D Stickman Action Combat Platformer Animation Pack - 40+ Animations
+  packageVersion: 1.0.0
+  assetPath: Assets/MonishCreate/StickmanCombatPlatformerAnimations_1.0/SpriteSheets/CrazyLand.png
+  uploadId: 823626

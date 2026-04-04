@@ -1,0 +1,3369 @@
+fileFormatVersion: 2
+guid: bf9b4aa0e684f8b48b79f0cefd242bcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1886339210015682597
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 754990930512607032
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 1407650240045538135
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -3246168965591666627
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -2236323435937593000
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -5386610875931871143
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -4313887680767082665
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 7975026016452643114
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 5049067837119936265
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 7018528548012181822
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -7746859734322187842
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -1340664818353313234
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: -3536919018396891084
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: -5797262745446708754
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: 7208774316299559277
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: 4252552085001532350
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 7957582385798241243
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -7880981948139218644
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 1395986523021693477
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -8910065479592068622
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -7096131023485647140
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: 3903526781929565828
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: 2754911104188549066
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: 8779106285581018409
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: -4531327337118994812
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 7447086729352790070
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 677477943545693223
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 7873716966709100528
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: 7965884081492767520
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 632783192606950525
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: -1766553173642398034
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: -4390805596016978324
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: 4152644948144593084
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: 2900531655535286450
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: 405516498115939274
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: -2060305759704521753
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: -2127037200574213537
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: -123975770555862386
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: -7624295135317391317
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: -6518658654625373834
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: -705159766030599929
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: 3388493613566419877
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: 256324727796683975
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: -4621169596734493610
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: 5043039631848196934
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_44
+  - first:
+      213: -469607857986051880
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_45
+  - first:
+      213: -3029680000460359777
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_46
+  - first:
+      213: 6974742759175061211
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_47
+  - first:
+      213: -2742152426180296778
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_48
+  - first:
+      213: -8260543089885701128
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_49
+  - first:
+      213: 7628098552196651650
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_50
+  - first:
+      213: -180452280881576275
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_51
+  - first:
+      213: -303014547012972335
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_52
+  - first:
+      213: 4038799215910177450
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_53
+  - first:
+      213: 7927909958884296765
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_54
+  - first:
+      213: -2216800088470772230
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_55
+  - first:
+      213: 8084734719177784081
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_56
+  - first:
+      213: -5558856460941111804
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_57
+  - first:
+      213: -2248733766586763985
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_58
+  - first:
+      213: 7638978209752331047
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_59
+  - first:
+      213: 2420970218652320819
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_60
+  - first:
+      213: -5623417377100970889
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_61
+  - first:
+      213: 3801175215585871770
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_62
+  - first:
+      213: 2404108521142077866
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_63
+  - first:
+      213: -9113292110912743528
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_64
+  - first:
+      213: -4807399095716201155
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_65
+  - first:
+      213: -4189161804638471344
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_66
+  - first:
+      213: -1664267033397366666
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_67
+  - first:
+      213: 310169476610711163
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_68
+  - first:
+      213: 814435842929812958
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_69
+  - first:
+      213: -4955397063576081763
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_70
+  - first:
+      213: -3860495037078024928
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_71
+  - first:
+      213: 885327747177351089
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_72
+  - first:
+      213: 3130848825504333070
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_73
+  - first:
+      213: -4466066976924584649
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_74
+  - first:
+      213: -5900935037836484844
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_75
+  - first:
+      213: -6663242365776684583
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_76
+  - first:
+      213: -7046838488466023362
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_77
+  - first:
+      213: 5200209971765333066
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_78
+  - first:
+      213: 291222944819274977
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_79
+  - first:
+      213: 6212185052995408731
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_80
+  - first:
+      213: 5083812734202199522
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_81
+  - first:
+      213: 211796987816001904
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_82
+  - first:
+      213: 4026202045615789580
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_83
+  - first:
+      213: -8488832677339485293
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_84
+  - first:
+      213: -4255004349909992112
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_85
+  - first:
+      213: 3726351075236815306
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_86
+  - first:
+      213: -588465389735562590
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_87
+  - first:
+      213: 6256321972474904870
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_88
+  - first:
+      213: 7930870634481323058
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_89
+  - first:
+      213: -7454885353097851434
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_90
+  - first:
+      213: -2205875523321087065
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_91
+  - first:
+      213: -5967527531273391163
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_92
+  - first:
+      213: -319617165482253841
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_93
+  - first:
+      213: -8024186455427669781
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_94
+  - first:
+      213: 5424293392820054889
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_95
+  - first:
+      213: -5295114662027880028
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_96
+  - first:
+      213: -9147960750667555781
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_97
+  - first:
+      213: 340277488658785939
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_98
+  - first:
+      213: 1382138436445919457
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_99
+  - first:
+      213: -213621304745076915
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_100
+  - first:
+      213: -4170870218380034919
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_101
+  - first:
+      213: -8381844472160984596
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_102
+  - first:
+      213: -5047200677373559725
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_103
+  - first:
+      213: -4402377545134199268
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_104
+  - first:
+      213: -5524585249484960627
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_105
+  - first:
+      213: 6630475734212838981
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_106
+  - first:
+      213: -28178367222286956
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_107
+  - first:
+      213: -2356912950744997477
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_108
+  - first:
+      213: 1294991048238663217
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_109
+  - first:
+      213: 4518866061044186483
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_110
+  - first:
+      213: -4383448585242565538
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_111
+  - first:
+      213: -950138927107155124
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_112
+  - first:
+      213: 7654985210615987696
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_113
+  - first:
+      213: 4465702864774419540
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_114
+  - first:
+      213: 1880593620911414817
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_115
+  - first:
+      213: -7690713729702975395
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_116
+  - first:
+      213: -6179753515390444028
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_117
+  - first:
+      213: -2694479237548604725
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_118
+  - first:
+      213: 5481181293121970591
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_119
+  - first:
+      213: 550961397240994786
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_120
+  - first:
+      213: -1974445868068656564
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_121
+  - first:
+      213: 7401075580649682746
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_122
+  - first:
+      213: 5870962356194973710
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_123
+  - first:
+      213: -4399874173866579324
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_124
+  - first:
+      213: 3281537748260670683
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_125
+  - first:
+      213: 985627927371164145
+    second: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52030ea648f9d2a10800000000000000
+      internalID: 1886339210015682597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83778dd40444a7a00800000000000000
+      internalID: 754990930512607032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b58ed6f6af88310800000000000000
+      internalID: 1407650240045538135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30f205568a43f2d0800000000000000
+      internalID: -3246168965591666627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8590f0efeabf6f0e0800000000000000
+      internalID: -2236323435937593000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95833d4a2f9ee35b0800000000000000
+      internalID: -5386610875931871143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fb1f2a20ef124c0800000000000000
+      internalID: -4313887680767082665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29882198ebfcae60800000000000000
+      internalID: 7975026016452643114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907326e5274e11640800000000000000
+      internalID: 5049067837119936265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3944365782d66160800000000000000
+      internalID: 7018528548012181822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1f2f2cd10ad7490800000000000000
+      internalID: -7746859734322187842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aef2b6370056de0800000000000000
+      internalID: -1340664818353313234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438412564e65aeec0800000000000000
+      internalID: -3536919018396891084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee90b0c8f3cfb8fa0800000000000000
+      internalID: -5797262745446708754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61aef40c06ba0460800000000000000
+      internalID: 7208774316299559277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3fc5f1799140b30800000000000000
+      internalID: 4252552085001532350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbd860d4030f6e60800000000000000
+      internalID: 7957582385798241243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2955e36ca021a290800000000000000
+      internalID: -7880981948139218644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522d0ffa85a8f5310800000000000000
+      internalID: 1395986523021693477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9b17367a6195480800000000000000
+      internalID: -8910065479592068622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd642895e6a758d90800000000000000
+      internalID: -7096131023485647140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ea2282dec1c2630800000000000000
+      internalID: 3903526781929565828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac700f89d096b3620800000000000000
+      internalID: 2754911104188549066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925a47d27a6a5d970800000000000000
+      internalID: 8779106285581018409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e610e7bcd7d11c0800000000000000
+      internalID: -4531327337118994812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630499a8ced595760800000000000000
+      internalID: 7447086729352790070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7240438a992e66900800000000000000
+      internalID: 677477943545693223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff79ae4ddf054d60800000000000000
+      internalID: 7873716966709100528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023b057fd518c8e60800000000000000
+      internalID: 7965884081492767520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74cc2706f818c800800000000000000
+      internalID: 632783192606950525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6b4388f31fb77e0800000000000000
+      internalID: -1766553173642398034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c665c9be299b013c0800000000000000
+      internalID: -4390805596016978324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb89a74249821a930800000000000000
+      internalID: 4152644948144593084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8d4fb4c22c04820800000000000000
+      internalID: 2900531655535286450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbc2c44b1fa0a500800000000000000
+      internalID: 405516498115939274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3ee18d3d25863e0800000000000000
+      internalID: -2060305759704521753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f529bb38fee3b72e0800000000000000
+      internalID: -2127037200574213537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82334b81bc874ef0800000000000000
+      internalID: -123975770555862386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b280bac38ff013690800000000000000
+      internalID: -7624295135317391317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671670fad721985a0800000000000000
+      internalID: -6518658654625373834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70939dbcde4c636f0800000000000000
+      internalID: -705159766030599929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a36e401df8560f20800000000000000
+      internalID: 3388493613566419877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4587b5bf5ae8300800000000000000
+      internalID: 256324727796683975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c2ecb5cbe4edfb0800000000000000
+      internalID: -4621169596734493610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b478473d97cf540800000000000000
+      internalID: 5043039631848196934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d06209242e9b79f0800000000000000
+      internalID: -469607857986051880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97747d671a64f5d0800000000000000
+      internalID: -3029680000460359777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_47
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde7b50f5934bc060800000000000000
+      internalID: 6974742759175061211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_48
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf3c8d95eae1f9d0800000000000000
+      internalID: -2742152426180296778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_49
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb1e8373d7ac5d80800000000000000
+      internalID: -8260543089885701128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_50
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a5a53c7337cd960800000000000000
+      internalID: 7628098552196651650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_51
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6052b4b97ee7df0800000000000000
+      internalID: -180452280881576275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_52
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0148bffd97bcbf0800000000000000
+      internalID: -303014547012972335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_53
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaac3770d72bc0830800000000000000
+      internalID: 4038799215910177450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_54
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38849e8a18950e60800000000000000
+      internalID: 7927909958884296765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af525ac80185c31e0800000000000000
+      internalID: -2216800088470772230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bfbdf646fb23070800000000000000
+      internalID: 8084734719177784081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_57
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e48383089fad2b0800000000000000
+      internalID: -5558856460941111804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_58
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f257b28bd84eac0e0800000000000000
+      internalID: -2248733766586763985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_59
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723bc3f653a130a60800000000000000
+      internalID: 7638978209752331047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_60
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33442964693099120800000000000000
+      internalID: 2420970218652320819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_61
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774432e80bb95f1b0800000000000000
+      internalID: -5623417377100970889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_62
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97c30618bc70c430800000000000000
+      internalID: 3801175215585871770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_63
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9c92466fb1d5120800000000000000
+      internalID: 2404108521142077866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_64
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8971da20c15178180800000000000000
+      internalID: -9113292110912743528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_65
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d3d4e3effa84db0800000000000000
+      internalID: -4807399095716201155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bb3e7a88b1dd5c0800000000000000
+      internalID: -4189161804638471344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_67
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670f4f663f557e8e0800000000000000
+      internalID: -1664267033397366666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7edc81ee71fd4400800000000000000
+      internalID: 310169476610711163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_69
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed56d2685157d4b00800000000000000
+      internalID: 814435842929812958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_70
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aa88020a4ea3bb0800000000000000
+      internalID: -4955397063576081763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_71
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d4ec1b734cc6ac0800000000000000
+      internalID: -3860495037078024928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_72
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b78d4835e0594c00800000000000000
+      internalID: 885327747177351089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_73
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d72a93b62037b20800000000000000
+      internalID: 3130848825504333070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_74
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735be492fb75502c0800000000000000
+      internalID: -4466066976924584649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_75
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f991bf8daab1ea0800000000000000
+      internalID: -5900935037836484844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_76
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d91c872f586783a0800000000000000
+      internalID: -6663242365776684583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c9e610bb9943e90800000000000000
+      internalID: -7046838488466023362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c448cda6bda2840800000000000000
+      internalID: 5200209971765333066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_79
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e46560b9b1aa0400800000000000000
+      internalID: 291222944819274977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_80
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5358c2646d163650800000000000000
+      internalID: 6212185052995408731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_81
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edbabe1fb45d8640800000000000000
+      internalID: 5083812734202199522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_82
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071454ffc3470f200800000000000000
+      internalID: 211796987816001904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_83
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0651e2cd61ffd730800000000000000
+      internalID: 4026202045615789580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_84
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ba37dd7ab913a80800000000000000
+      internalID: -8488832677339485293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_85
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d7fd5761033f4c0800000000000000
+      internalID: -4255004349909992112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_86
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1a2e35f88a6b330800000000000000
+      internalID: 3726351075236815306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_87
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2333a88d955d7f0800000000000000
+      internalID: -588465389735562590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62186d1cfabe2d650800000000000000
+      internalID: 6256321972474904870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c06df82dc101e60800000000000000
+      internalID: 7930870634481323058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_90
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd075fd44dea8890800000000000000
+      internalID: -7454885353097851434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_91
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abb7b516e72361e0800000000000000
+      internalID: -2205875523321087065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_92
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3f51fd3551f2da0800000000000000
+      internalID: -5967527531273391163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_93
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe12053a1ed709bf0800000000000000
+      internalID: -319617165482253841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_94
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0abb8ceec54a090800000000000000
+      internalID: -8024186455427669781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_95
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ba9840a16f64b40800000000000000
+      internalID: 5424293392820054889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_96
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a99dd40549f386b0800000000000000
+      internalID: -5295114662027880028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_97
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c9e3d4a2aeb0180800000000000000
+      internalID: -9147960750667555781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_98
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396a194b298e8b400800000000000000
+      internalID: 340277488658785939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8d5c6c5975e2310800000000000000
+      internalID: 1382138436445919457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47d63e1e80190df0800000000000000
+      internalID: -213621304745076915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_101
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cb33572a71e16c0800000000000000
+      internalID: -4170870218380034919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_102
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1e54a8cd4bdab80800000000000000
+      internalID: -8381844472160984596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_103
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cb903a9bdb4f9b0800000000000000
+      internalID: -5047200677373559725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_104
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eae1f82fc97e2c0800000000000000
+      internalID: -4402377545134199268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_105
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c06117cfab453b0800000000000000
+      internalID: -5524585249484960627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_106
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5468a9dec8e240c50800000000000000
+      internalID: 6630475734212838981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_107
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4957d5f9ce3eb9ff0800000000000000
+      internalID: -28178367222286956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_108
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91a354a8209a4fd0800000000000000
+      internalID: -2356912950744997477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_109
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13683994f7bb8f110800000000000000
+      internalID: 1294991048238663217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d7b149dbc36be30800000000000000
+      internalID: 4518866061044186483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_111
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54ad697cbcda23c0800000000000000
+      internalID: -4383448585242565538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_112
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bd18a0ead60d2f0800000000000000
+      internalID: -950138927107155124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_113
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd72afbd78fb3a60800000000000000
+      internalID: 7654985210615987696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_114
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454d25f581d59fd30800000000000000
+      internalID: 4465702864774419540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_115
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e5a453fe5391a10800000000000000
+      internalID: 1880593620911414817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_116
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58a5d72c98154590800000000000000
+      internalID: -7690713729702975395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_117
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e5ea36bea1d3aa0800000000000000
+      internalID: -6179753515390444028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_118
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2004fc8694b9ad0800000000000000
+      internalID: -2694479237548604725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_119
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f912d067851111c40800000000000000
+      internalID: 5481181293121970591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_120
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb908fb87865a700800000000000000
+      internalID: 550961397240994786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aa78da1fb5994e0800000000000000
+      internalID: -1974445868068656564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brofly-1706884263802-ezgif.com-gif-to-sprite-converter_122
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37317c2707e5b660800000000000000
+      internalID: 7401075580649682746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f0f817b94d86b4748b6155fc4f3a571b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_0: 1886339210015682597
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_1: 754990930512607032
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_10: -7746859734322187842
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_100: -213621304745076915
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_101: -4170870218380034919
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_102: -8381844472160984596
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_103: -5047200677373559725
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_104: -4402377545134199268
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_105: -5524585249484960627
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_106: 6630475734212838981
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_107: -28178367222286956
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_108: -2356912950744997477
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_109: 1294991048238663217
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_11: -1340664818353313234
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_110: 4518866061044186483
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_111: -4383448585242565538
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_112: -950138927107155124
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_113: 7654985210615987696
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_114: 4465702864774419540
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_115: 1880593620911414817
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_116: -7690713729702975395
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_117: -6179753515390444028
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_118: -2694479237548604725
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_119: 5481181293121970591
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_12: -3536919018396891084
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_120: 550961397240994786
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_121: -1974445868068656564
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_122: 7401075580649682746
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_123: 5870962356194973710
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_124: -4399874173866579324
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_125: 3281537748260670683
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_126: 985627927371164145
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_127: -1081219354
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_128: 2074999664
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_129: 557021843
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_13: -5797262745446708754
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_130: 694226355
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_131: 1668733666
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_14: 7208774316299559277
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_15: 4252552085001532350
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_16: 7957582385798241243
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_17: -7880981948139218644
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_18: 1395986523021693477
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_19: -8910065479592068622
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_2: 1407650240045538135
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_20: -7096131023485647140
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_21: 3903526781929565828
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_22: 2754911104188549066
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_23: 8779106285581018409
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_24: -4531327337118994812
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_25: 7447086729352790070
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_26: 677477943545693223
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_27: 7873716966709100528
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_28: 7965884081492767520
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_29: 632783192606950525
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_3: -3246168965591666627
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_30: -1766553173642398034
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_31: -4390805596016978324
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_32: 4152644948144593084
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_33: 2900531655535286450
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_34: 405516498115939274
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_35: -2060305759704521753
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_36: -2127037200574213537
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_37: -123975770555862386
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_38: -7624295135317391317
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_39: -6518658654625373834
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_4: -2236323435937593000
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_40: -705159766030599929
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_41: 3388493613566419877
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_42: 256324727796683975
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_43: -4621169596734493610
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_44: 5043039631848196934
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_45: -469607857986051880
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_46: -3029680000460359777
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_47: 6974742759175061211
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_48: -2742152426180296778
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_49: -8260543089885701128
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_5: -5386610875931871143
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_50: 7628098552196651650
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_51: -180452280881576275
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_52: -303014547012972335
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_53: 4038799215910177450
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_54: 7927909958884296765
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_55: -2216800088470772230
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_56: 8084734719177784081
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_57: -5558856460941111804
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_58: -2248733766586763985
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_59: 7638978209752331047
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_6: -4313887680767082665
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_60: 2420970218652320819
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_61: -5623417377100970889
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_62: 3801175215585871770
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_63: 2404108521142077866
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_64: -9113292110912743528
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_65: -4807399095716201155
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_66: -4189161804638471344
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_67: -1664267033397366666
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_68: 310169476610711163
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_69: 814435842929812958
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_7: 7975026016452643114
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_70: -4955397063576081763
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_71: -3860495037078024928
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_72: 885327747177351089
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_73: 3130848825504333070
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_74: -4466066976924584649
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_75: -5900935037836484844
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_76: -6663242365776684583
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_77: -7046838488466023362
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_78: 5200209971765333066
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_79: 291222944819274977
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_8: 5049067837119936265
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_80: 6212185052995408731
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_81: 5083812734202199522
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_82: 211796987816001904
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_83: 4026202045615789580
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_84: -8488832677339485293
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_85: -4255004349909992112
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_86: 3726351075236815306
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_87: -588465389735562590
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_88: 6256321972474904870
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_89: 7930870634481323058
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_9: 7018528548012181822
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_90: -7454885353097851434
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_91: -2205875523321087065
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_92: -5967527531273391163
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_93: -319617165482253841
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_94: -8024186455427669781
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_95: 5424293392820054889
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_96: -5295114662027880028
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_97: -9147960750667555781
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_98: 340277488658785939
+      brofly-1706884263802-ezgif.com-gif-to-sprite-converter_99: 1382138436445919457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 346362
+  packageName: 2D Stickman Action Combat Platformer Animation Pack - 40+ Animations
+  packageVersion: 1.0.0
+  assetPath: Assets/MonishCreate/StickmanCombatPlatformerAnimations_1.0/SpriteSheets/HugeHurt.png
+  uploadId: 823626
